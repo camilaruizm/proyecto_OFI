@@ -1,0 +1,642 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-06-13T17:38:03.350-05:00
+  initializedAtString: 2020-06-13T07:57:18.537-05:00
+  entries:
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\usuario\Documents\vr\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\topos\FredokaOne-Regular.ttf
+    fullPath: C:\Users\usuario\Documents\vr\Assets\Scenes\topos\FredokaOne-Regular.ttf
+    projectPath: Assets\Scenes\topos\FredokaOne-Regular.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\topos\FredokaOne-Regular.ttf.meta
+    fullPath: C:\Users\usuario\Documents\vr\Assets\Scenes\topos\FredokaOne-Regular.ttf.meta
+    projectPath: Assets\Scenes\topos\FredokaOne-Regular.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\topos\frente.mat
+    fullPath: C:\Users\usuario\Documents\vr\Assets\Scenes\topos\frente.mat
+    projectPath: Assets\Scenes\topos\frente.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\topos\frente.mat.meta
+    fullPath: C:\Users\usuario\Documents\vr\Assets\Scenes\topos\frente.mat.meta
+    projectPath: Assets\Scenes\topos\frente.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\topos\instrucciones@4x-100.jpg
+    fullPath: C:\Users\usuario\Documents\vr\Assets\Scenes\topos\instrucciones@4x-100.jpg
+    projectPath: Assets\Scenes\topos\instrucciones@4x-100.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\topos\instrucciones@4x-100.jpg.meta
+    fullPath: C:\Users\usuario\Documents\vr\Assets\Scenes\topos\instrucciones@4x-100.jpg.meta
+    projectPath: Assets\Scenes\topos\instrucciones@4x-100.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\topos\menuInicio@4x-100.jpg
+    fullPath: C:\Users\usuario\Documents\vr\Assets\Scenes\topos\menuInicio@4x-100.jpg
+    projectPath: Assets\Scenes\topos\menuInicio@4x-100.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\topos\menuInicio@4x-100.jpg.meta
+    fullPath: C:\Users\usuario\Documents\vr\Assets\Scenes\topos\menuInicio@4x-100.jpg.meta
+    projectPath: Assets\Scenes\topos\menuInicio@4x-100.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\topos\menuInicio@4x-101.jpg
+    fullPath: C:\Users\usuario\Documents\vr\Assets\Scenes\topos\menuInicio@4x-101.jpg
+    projectPath: Assets\Scenes\topos\menuInicio@4x-101.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\topos\menuInicio@4x-101.jpg.meta
+    fullPath: C:\Users\usuario\Documents\vr\Assets\Scenes\topos\menuInicio@4x-101.jpg.meta
+    projectPath: Assets\Scenes\topos\menuInicio@4x-101.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\topos\prefabs\HatMole.prefab
+    fullPath: C:\Users\usuario\Documents\vr\Assets\Scenes\topos\prefabs\HatMole.prefab
+    projectPath: Assets\Scenes\topos\prefabs\HatMole.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\topos\prefabs\Mole.prefab
+    fullPath: C:\Users\usuario\Documents\vr\Assets\Scenes\topos\prefabs\Mole.prefab
+    projectPath: Assets\Scenes\topos\prefabs\Mole.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\topos\Scripts\holeBehavior.cs
+    fullPath: C:\Users\usuario\Documents\vr\Assets\Scenes\topos\Scripts\holeBehavior.cs
+    projectPath: Assets\Scenes\topos\Scripts\holeBehavior.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\topos\Scripts\scoreManager.cs
+    fullPath: C:\Users\usuario\Documents\vr\Assets\Scenes\topos\Scripts\scoreManager.cs
+    projectPath: Assets\Scenes\topos\Scripts\scoreManager.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\topos\Scripts\scoreManager.cs.meta
+    fullPath: C:\Users\usuario\Documents\vr\Assets\Scenes\topos\Scripts\scoreManager.cs.meta
+    projectPath: Assets\Scenes\topos\Scripts\scoreManager.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\topos\Scripts\topoBehaviour.cs
+    fullPath: C:\Users\usuario\Documents\vr\Assets\Scenes\topos\Scripts\topoBehaviour.cs
+    projectPath: Assets\Scenes\topos\Scripts\topoBehaviour.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\topos\Scripts\UImanager.cs
+    fullPath: C:\Users\usuario\Documents\vr\Assets\Scenes\topos\Scripts\UImanager.cs
+    projectPath: Assets\Scenes\topos\Scripts\UImanager.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\topos\Scripts\UImanager.cs.meta
+    fullPath: C:\Users\usuario\Documents\vr\Assets\Scenes\topos\Scripts\UImanager.cs.meta
+    projectPath: Assets\Scenes\topos\Scripts\UImanager.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\topos\topos.unity
+    fullPath: C:\Users\usuario\Documents\vr\Assets\Scenes\topos\topos.unity
+    projectPath: Assets\Scenes\topos\topos.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\usuario\Documents\vr\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CrashedAssetImports.txt
+    fullPath: C:\Users\usuario\Documents\vr\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\usuario\Documents\vr\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\usuario\Documents\vr\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\usuario\Documents\vr\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\usuario\Documents\vr\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\usuario\Documents\vr\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\usuario\Documents\vr\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\usuario\Documents\vr\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\usuario\Documents\vr\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\usuario\Documents\vr\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\18\18af28ada71f0864b8fd3821a7fd8e85
+    fullPath: C:\Users\usuario\Documents\vr\Library\metadata\18\18af28ada71f0864b8fd3821a7fd8e85
+    projectPath: Library\metadata\18\18af28ada71f0864b8fd3821a7fd8e85
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\18\18af28ada71f0864b8fd3821a7fd8e85.info
+    fullPath: C:\Users\usuario\Documents\vr\Library\metadata\18\18af28ada71f0864b8fd3821a7fd8e85.info
+    projectPath: Library\metadata\18\18af28ada71f0864b8fd3821a7fd8e85.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\2b\2bac70bd68933404aa1b978b21f8b058
+    fullPath: C:\Users\usuario\Documents\vr\Library\metadata\2b\2bac70bd68933404aa1b978b21f8b058
+    projectPath: Library\metadata\2b\2bac70bd68933404aa1b978b21f8b058
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\3e\3ec04dab6642c7b4f93955cf670ee872
+    fullPath: C:\Users\usuario\Documents\vr\Library\metadata\3e\3ec04dab6642c7b4f93955cf670ee872
+    projectPath: Library\metadata\3e\3ec04dab6642c7b4f93955cf670ee872
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\3e\3ec04dab6642c7b4f93955cf670ee872.info
+    fullPath: C:\Users\usuario\Documents\vr\Library\metadata\3e\3ec04dab6642c7b4f93955cf670ee872.info
+    projectPath: Library\metadata\3e\3ec04dab6642c7b4f93955cf670ee872.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\56\565de92324968ea47b2d4a720d16f786
+    fullPath: C:\Users\usuario\Documents\vr\Library\metadata\56\565de92324968ea47b2d4a720d16f786
+    projectPath: Library\metadata\56\565de92324968ea47b2d4a720d16f786
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\56\565de92324968ea47b2d4a720d16f786.info
+    fullPath: C:\Users\usuario\Documents\vr\Library\metadata\56\565de92324968ea47b2d4a720d16f786.info
+    projectPath: Library\metadata\56\565de92324968ea47b2d4a720d16f786.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\59\59c07fd226507b048bc403330c275cec
+    fullPath: C:\Users\usuario\Documents\vr\Library\metadata\59\59c07fd226507b048bc403330c275cec
+    projectPath: Library\metadata\59\59c07fd226507b048bc403330c275cec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\59\59c07fd226507b048bc403330c275cec.info
+    fullPath: C:\Users\usuario\Documents\vr\Library\metadata\59\59c07fd226507b048bc403330c275cec.info
+    projectPath: Library\metadata\59\59c07fd226507b048bc403330c275cec.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\6a\6aa876b86db07e64f9b37035a2420121
+    fullPath: C:\Users\usuario\Documents\vr\Library\metadata\6a\6aa876b86db07e64f9b37035a2420121
+    projectPath: Library\metadata\6a\6aa876b86db07e64f9b37035a2420121
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\6a\6aa876b86db07e64f9b37035a2420121.info
+    fullPath: C:\Users\usuario\Documents\vr\Library\metadata\6a\6aa876b86db07e64f9b37035a2420121.info
+    projectPath: Library\metadata\6a\6aa876b86db07e64f9b37035a2420121.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\70\70e49099be1f95b4296f74a2eb8d781b
+    fullPath: C:\Users\usuario\Documents\vr\Library\metadata\70\70e49099be1f95b4296f74a2eb8d781b
+    projectPath: Library\metadata\70\70e49099be1f95b4296f74a2eb8d781b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\70\70e49099be1f95b4296f74a2eb8d781b.info
+    fullPath: C:\Users\usuario\Documents\vr\Library\metadata\70\70e49099be1f95b4296f74a2eb8d781b.info
+    projectPath: Library\metadata\70\70e49099be1f95b4296f74a2eb8d781b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\7d\7dfbfe26dda73ce418b00ade66316ca6
+    fullPath: C:\Users\usuario\Documents\vr\Library\metadata\7d\7dfbfe26dda73ce418b00ade66316ca6
+    projectPath: Library\metadata\7d\7dfbfe26dda73ce418b00ade66316ca6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\9e\9e579c6eaed32f14ebfc0608bdd7d51f
+    fullPath: C:\Users\usuario\Documents\vr\Library\metadata\9e\9e579c6eaed32f14ebfc0608bdd7d51f
+    projectPath: Library\metadata\9e\9e579c6eaed32f14ebfc0608bdd7d51f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\9e\9e579c6eaed32f14ebfc0608bdd7d51f.info
+    fullPath: C:\Users\usuario\Documents\vr\Library\metadata\9e\9e579c6eaed32f14ebfc0608bdd7d51f.info
+    projectPath: Library\metadata\9e\9e579c6eaed32f14ebfc0608bdd7d51f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ba\bae0131afa41dbe4e8c5a2b1eca05e9a
+    fullPath: C:\Users\usuario\Documents\vr\Library\metadata\ba\bae0131afa41dbe4e8c5a2b1eca05e9a
+    projectPath: Library\metadata\ba\bae0131afa41dbe4e8c5a2b1eca05e9a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\da\da1f81a5913ef0a4192a4c24cc767eb7
+    fullPath: C:\Users\usuario\Documents\vr\Library\metadata\da\da1f81a5913ef0a4192a4c24cc767eb7
+    projectPath: Library\metadata\da\da1f81a5913ef0a4192a4c24cc767eb7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\usuario\Documents\vr\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\usuario\Documents\vr\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: C:\Users\usuario\Documents\vr\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\0\0f8e4b1f8a0e857889c15f69541a5da0.bin
+    fullPath: C:\Users\usuario\Documents\vr\Library\ShaderCache\0\0f8e4b1f8a0e857889c15f69541a5da0.bin
+    projectPath: Library\ShaderCache\0\0f8e4b1f8a0e857889c15f69541a5da0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0fcb99ba8072808770e991057ab476f9.bin
+    fullPath: C:\Users\usuario\Documents\vr\Library\ShaderCache\0\0fcb99ba8072808770e991057ab476f9.bin
+    projectPath: Library\ShaderCache\0\0fcb99ba8072808770e991057ab476f9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\14c5f868a7918a0c1e4bbe7ce3ba298f.bin
+    fullPath: C:\Users\usuario\Documents\vr\Library\ShaderCache\1\14c5f868a7918a0c1e4bbe7ce3ba298f.bin
+    projectPath: Library\ShaderCache\1\14c5f868a7918a0c1e4bbe7ce3ba298f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\bc4399c3537a89655585c4726066e10f.bin
+    fullPath: C:\Users\usuario\Documents\vr\Library\ShaderCache\b\bc4399c3537a89655585c4726066e10f.bin
+    projectPath: Library\ShaderCache\b\bc4399c3537a89655585c4726066e10f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\be272188ca9cd6919e8bba71f04eabf2.bin
+    fullPath: C:\Users\usuario\Documents\vr\Library\ShaderCache\b\be272188ca9cd6919e8bba71f04eabf2.bin
+    projectPath: Library\ShaderCache\b\be272188ca9cd6919e8bba71f04eabf2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\cd3d7fa86fd6c7afc10d912b56e62b96.bin
+    fullPath: C:\Users\usuario\Documents\vr\Library\ShaderCache\c\cd3d7fa86fd6c7afc10d912b56e62b96.bin
+    projectPath: Library\ShaderCache\c\cd3d7fa86fd6c7afc10d912b56e62b96.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\dadc9eb71b09a86e235cdc4b80619e82.bin
+    fullPath: C:\Users\usuario\Documents\vr\Library\ShaderCache\d\dadc9eb71b09a86e235cdc4b80619e82.bin
+    projectPath: Library\ShaderCache\d\dadc9eb71b09a86e235cdc4b80619e82.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e51b7e6c4abd82dfcad80eb1dac09970.bin
+    fullPath: C:\Users\usuario\Documents\vr\Library\ShaderCache\e\e51b7e6c4abd82dfcad80eb1dac09970.bin
+    projectPath: Library\ShaderCache\e\e51b7e6c4abd82dfcad80eb1dac09970.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\usuario\Documents\vr\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\usuario\Documents\vr\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\usuario\Documents\vr\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\usuario\Documents\vr\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\usuario\Documents\vr\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\Hierarchy\9a322d-mainStage.json
+    fullPath: C:\Users\usuario\Documents\vr\Library\StateCache\Hierarchy\9a322d-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\9a322d-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\c4eaf7-mainStage.json
+    fullPath: C:\Users\usuario\Documents\vr\Library\StateCache\SceneView\c4eaf7-mainStage.json
+    projectPath: Library\StateCache\SceneView\c4eaf7-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\usuario\Documents\vr\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\UnityTempFile-06d73adfea9fee447beef98cfd827d7f
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-06d73adfea9fee447beef98cfd827d7f
+    projectPath: Temp\UnityTempFile-06d73adfea9fee447beef98cfd827d7f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-086c350e47b1fc7469fe618bc5a62b92
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-086c350e47b1fc7469fe618bc5a62b92
+    projectPath: Temp\UnityTempFile-086c350e47b1fc7469fe618bc5a62b92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-09cecdbf0fe3da44c88528982adbd012
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-09cecdbf0fe3da44c88528982adbd012
+    projectPath: Temp\UnityTempFile-09cecdbf0fe3da44c88528982adbd012
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0faa4b3c3ce923e44aa533bc8b9e1d58
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-0faa4b3c3ce923e44aa533bc8b9e1d58
+    projectPath: Temp\UnityTempFile-0faa4b3c3ce923e44aa533bc8b9e1d58
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-129e8c456c0a1a94193b72f184bf3eec
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-129e8c456c0a1a94193b72f184bf3eec
+    projectPath: Temp\UnityTempFile-129e8c456c0a1a94193b72f184bf3eec
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-17f7c636abda07e43a51d7b795e12d2c
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-17f7c636abda07e43a51d7b795e12d2c
+    projectPath: Temp\UnityTempFile-17f7c636abda07e43a51d7b795e12d2c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1b262681966a4154585b487805c0ebe1
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-1b262681966a4154585b487805c0ebe1
+    projectPath: Temp\UnityTempFile-1b262681966a4154585b487805c0ebe1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-2779623a02f7bad47a0bdf97f0c38d2e
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-2779623a02f7bad47a0bdf97f0c38d2e
+    projectPath: Temp\UnityTempFile-2779623a02f7bad47a0bdf97f0c38d2e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-36b9c86e019d356499e5d44edd230221
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-36b9c86e019d356499e5d44edd230221
+    projectPath: Temp\UnityTempFile-36b9c86e019d356499e5d44edd230221
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-39af74acadafc25458e7b5555aa1e397
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-39af74acadafc25458e7b5555aa1e397
+    projectPath: Temp\UnityTempFile-39af74acadafc25458e7b5555aa1e397
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-39e4dbaa90a722c44aa11872a91171d5
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-39e4dbaa90a722c44aa11872a91171d5
+    projectPath: Temp\UnityTempFile-39e4dbaa90a722c44aa11872a91171d5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4004a6ea510775b4daed6e7a4c0dac45
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-4004a6ea510775b4daed6e7a4c0dac45
+    projectPath: Temp\UnityTempFile-4004a6ea510775b4daed6e7a4c0dac45
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-400df7ec03b82fa498393840297b5e47
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-400df7ec03b82fa498393840297b5e47
+    projectPath: Temp\UnityTempFile-400df7ec03b82fa498393840297b5e47
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-4430b1cc98f4ef045b2ac295018436ca
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-4430b1cc98f4ef045b2ac295018436ca
+    projectPath: Temp\UnityTempFile-4430b1cc98f4ef045b2ac295018436ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-44cd9fa75719a1c4e88a93c4d5560af5
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-44cd9fa75719a1c4e88a93c4d5560af5
+    projectPath: Temp\UnityTempFile-44cd9fa75719a1c4e88a93c4d5560af5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4fe5c8fcab0ab7443b0085d79d356ca1
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-4fe5c8fcab0ab7443b0085d79d356ca1
+    projectPath: Temp\UnityTempFile-4fe5c8fcab0ab7443b0085d79d356ca1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-52169e503544d8a46a6f33aed7f4c4bb
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-52169e503544d8a46a6f33aed7f4c4bb
+    projectPath: Temp\UnityTempFile-52169e503544d8a46a6f33aed7f4c4bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5ed39220943ace4479c180d8795c0d30
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-5ed39220943ace4479c180d8795c0d30
+    projectPath: Temp\UnityTempFile-5ed39220943ace4479c180d8795c0d30
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-5fa5b17900af15d41934e8f3575cc6ac
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-5fa5b17900af15d41934e8f3575cc6ac
+    projectPath: Temp\UnityTempFile-5fa5b17900af15d41934e8f3575cc6ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-639a69a6d42c070469ef468f78002697
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-639a69a6d42c070469ef468f78002697
+    projectPath: Temp\UnityTempFile-639a69a6d42c070469ef468f78002697
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-686a8fd201f83d8448e06cb92f63fc66
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-686a8fd201f83d8448e06cb92f63fc66
+    projectPath: Temp\UnityTempFile-686a8fd201f83d8448e06cb92f63fc66
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-72ab7bd25f68d9d48ad885ac967b4893
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-72ab7bd25f68d9d48ad885ac967b4893
+    projectPath: Temp\UnityTempFile-72ab7bd25f68d9d48ad885ac967b4893
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-79f9f8f67a9dee545954eb37b82f5dbc
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-79f9f8f67a9dee545954eb37b82f5dbc
+    projectPath: Temp\UnityTempFile-79f9f8f67a9dee545954eb37b82f5dbc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-8252ad2cca8d6f04d8d18ba0b8e9e2fc
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-8252ad2cca8d6f04d8d18ba0b8e9e2fc
+    projectPath: Temp\UnityTempFile-8252ad2cca8d6f04d8d18ba0b8e9e2fc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-96711e81acf7bd048a856c1e055373c7
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-96711e81acf7bd048a856c1e055373c7
+    projectPath: Temp\UnityTempFile-96711e81acf7bd048a856c1e055373c7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-990317012fa4f454ba95ddc3ff10d685
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-990317012fa4f454ba95ddc3ff10d685
+    projectPath: Temp\UnityTempFile-990317012fa4f454ba95ddc3ff10d685
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-9f407763dc123af40974cb6a75d476b6
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-9f407763dc123af40974cb6a75d476b6
+    projectPath: Temp\UnityTempFile-9f407763dc123af40974cb6a75d476b6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-a55ccad73c9e28d4684787ed33df9960
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-a55ccad73c9e28d4684787ed33df9960
+    projectPath: Temp\UnityTempFile-a55ccad73c9e28d4684787ed33df9960
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-ab6c0cb9712c06940bb10a917f430faf
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-ab6c0cb9712c06940bb10a917f430faf
+    projectPath: Temp\UnityTempFile-ab6c0cb9712c06940bb10a917f430faf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-b364cc25832dc6c44aa31ab3fe5584bc
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-b364cc25832dc6c44aa31ab3fe5584bc
+    projectPath: Temp\UnityTempFile-b364cc25832dc6c44aa31ab3fe5584bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bc8cdbc8781117d4ca9cd544e2d0f740
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-bc8cdbc8781117d4ca9cd544e2d0f740
+    projectPath: Temp\UnityTempFile-bc8cdbc8781117d4ca9cd544e2d0f740
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-c3f7f0c2f51dada43bbcaef83521043f
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-c3f7f0c2f51dada43bbcaef83521043f
+    projectPath: Temp\UnityTempFile-c3f7f0c2f51dada43bbcaef83521043f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d38d8cf32db7d1347a594634636a891a
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-d38d8cf32db7d1347a594634636a891a
+    projectPath: Temp\UnityTempFile-d38d8cf32db7d1347a594634636a891a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e11cacb2e835cda49b1d2327fff54938
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-e11cacb2e835cda49b1d2327fff54938
+    projectPath: Temp\UnityTempFile-e11cacb2e835cda49b1d2327fff54938
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ee2885f6f922bfd4e93d7581aa70245b
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-ee2885f6f922bfd4e93d7581aa70245b
+    projectPath: Temp\UnityTempFile-ee2885f6f922bfd4e93d7581aa70245b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-f65617850332a5c479ee720c35599e4a
+    fullPath: C:\Users\usuario\Documents\vr\Temp\UnityTempFile-f65617850332a5c479ee720c35599e4a
+    projectPath: Temp\UnityTempFile-f65617850332a5c479ee720c35599e4a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
