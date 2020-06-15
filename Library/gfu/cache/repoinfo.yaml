@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-06-13T07:59:47.979-05:00
-  initializedAtString: 2020-06-13T07:59:47.979-05:00
+  lastUpdatedAtString: 2020-06-15T13:38:37.763-05:00
+  initializedAtString: 2020-06-15T13:38:37.763-05:00
   currentGitRemote:
     name: origin
-    url: https://github.com/camilaruizm/vr.git
+    url: https://github.com/camilaruizm/proyecto_OFI.git
     login: 
     user: 
     host: 
@@ -30,9 +30,9 @@ MonoBehaviour:
     name: master
     remote:
       name: origin
-      url: https://github.com/camilaruizm/vr.git
+      url: https://github.com/camilaruizm/proyecto_OFI.git
     trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: https://github.com/camilaruizm/vr.git
+    url: https://github.com/camilaruizm/proyecto_OFI.git
   currentHead: 

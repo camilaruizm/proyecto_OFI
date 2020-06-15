@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/VR_Topo.unity
-    guid: 961baa3b744909740a493677e4d640c5
+    path: Assets/Scenes/introScene.unity
+    guid: d588a7235e6e4f24ba54862d13822af9
+  - enabled: 1
+    path: Assets/Scenes/GUI.unity
+    guid: 2815ed921b371214fb8bab1757a2e99f
   m_configObjects: {}
