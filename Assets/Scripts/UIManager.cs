@@ -10,9 +10,17 @@ public class UIManager : MonoBehaviour
     void Awake()
     {
         instance = this;
+        UpdateUI();
+        UpdateTime(1,0);
     }
 
     public TextMeshPro scoreText;
+    public TextMeshPro timeText;
+
+    public void UpdateTime(int mins, int secs)
+    {
+        timeText.text = mins.ToString("D2") + ":" + secs.ToString("D2");
+    }
 
     public void UpdateUI()
     {

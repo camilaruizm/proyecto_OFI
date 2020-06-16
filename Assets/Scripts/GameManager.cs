@@ -4,15 +4,29 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    // Start is called before the first frame update
+    //Timer
+    int playTime =60;
+    int seconds,minutes;
+
+
     void Start()
     {
-        
+        StartCoroutine("PlayTimer");
     }
 
-    // Update is called once per frame
-    void Update()
+    IEnumerator PlayTimer()
     {
-        
+        while(playTime > 0)
+        {
+            yield return new WaitForSeconds(1);
+            playTime--;
+            seconds = playTime % 60;
+            minutes = playTime /60 % 60;
+            UIManager.instance.UpdateTime(minutes,seconds);
+        }
+
+        Debug.Log("Tiempo Terminado");
+        //WIN CONDITION
     }
+ 
 }
