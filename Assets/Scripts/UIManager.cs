@@ -7,6 +7,9 @@ using TMPro;
 public class UIManager : MonoBehaviour
 {
     public static UIManager instance;
+     public TextMeshPro scoreText;
+    public TextMeshPro timeText;
+
     void Awake()
     {
         instance = this;
@@ -14,8 +17,7 @@ public class UIManager : MonoBehaviour
         UpdateTime(1,0);
     }
 
-    public TextMeshPro scoreText;
-    public TextMeshPro timeText;
+
 
     public void UpdateTime(int mins, int secs)
     {

@@ -4,24 +4,31 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
+    public static GameManager instance;
     //Timer
-    int playTime =60;
+    int playTime = 62;
     int seconds,minutes;
+    [HideInInspector]public bool countDownDone;
+
+    void Awake()
+    {
+        instance = this;
+    }
 
 
     void Start()
     {
-        StartCoroutine("PlayTimer");
+        StartCoroutine(PlayTimer());
     }
 
     IEnumerator PlayTimer()
     {
         while(playTime > 0)
         {
-            yield return new WaitForSeconds(1);
+            yield return new WaitForSeconds(2);
             playTime--;
-            seconds = playTime % 60;
-            minutes = playTime /60 % 60;
+            seconds = playTime % 62;
+            minutes = playTime / 62  % 62;
             UIManager.instance.UpdateTime(minutes,seconds);
         }
 

@@ -264,7 +264,7 @@ SkinnedMeshRenderer:
   - {fileID: 7108631595466352291, guid: 43d4f10953758e44191ad25ffc41d59a, type: 3}
   - {fileID: 6032018737518785298, guid: 43d4f10953758e44191ad25ffc41d59a, type: 3}
   - {fileID: -1580535799172915004, guid: 43d4f10953758e44191ad25ffc41d59a, type: 3}
-  - {fileID: 2100000, guid: 3825a3165555e2749905eb5abbb9937b, type: 2}
+  - {fileID: -2653651044934150266, guid: 43d4f10953758e44191ad25ffc41d59a, type: 3}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1035,7 +1035,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8306416445434273918}
   m_LocalRotation: {x: 0, y: -1, z: 0, w: 0}
-  m_LocalPosition: {x: -0.0153635675, y: 0.632, z: -0.25756896}
+  m_LocalPosition: {x: -0.0153635675, y: 0, z: -0.25756896}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 5454182910691353957}
@@ -1078,6 +1078,8 @@ MonoBehaviour:
   score: 15
   myParent: {fileID: 0}
   anim: {fileID: 0}
+  popUpText: {fileID: 8132939194841849686, guid: 46bed4e4db543cf4a85bd39938227f65,
+    type: 3}
 --- !u!136 &5456635019502113328
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -1086,7 +1088,7 @@ CapsuleCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8306416445434273918}
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.34
   m_Height: 2.216331

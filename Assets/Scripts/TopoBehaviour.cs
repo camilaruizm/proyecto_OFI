@@ -10,6 +10,8 @@ public class TopoBehaviour : MonoBehaviour
     [HideInInspector] public GameObject myParent;
     [HideInInspector] public Animator anim;
 
+    public GameObject popUpText;  
+
     void Start()
     {
         anim = GetComponent<Animator>();
@@ -46,6 +48,14 @@ public class TopoBehaviour : MonoBehaviour
         {
             myParent.GetComponent<HoleBehavior>().hasMole = false;
             ScoreManager.AddScore(score);
+
+            GameObject pop = Instantiate(popUpText) as GameObject;
+            pop.transform.SetParent(UIManager.instance.transform,false);
+            pop.transform.position = Camera.main.WorldToScreenPoint(transform.position);
+
+            PopUpText pT = pop.GetComponent<PopUpText>();
+            pT.ShowText(score);
+
             Destroy(gameObject);
         }
     }

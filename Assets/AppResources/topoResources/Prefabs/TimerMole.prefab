@@ -384,6 +384,8 @@ MonoBehaviour:
   score: 15
   myParent: {fileID: 0}
   anim: {fileID: 0}
+  popUpText: {fileID: 8132939194841849686, guid: 46bed4e4db543cf4a85bd39938227f65,
+    type: 3}
 --- !u!54 &5832575496128203981
 Rigidbody:
   m_ObjectHideFlags: 0

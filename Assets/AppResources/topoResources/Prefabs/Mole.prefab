@@ -103,6 +103,8 @@ MonoBehaviour:
   score: 10
   myParent: {fileID: 0}
   anim: {fileID: 0}
+  popUpText: {fileID: 8132939194841849686, guid: 46bed4e4db543cf4a85bd39938227f65,
+    type: 3}
 --- !u!136 &8276515696897843375
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -111,7 +113,7 @@ CapsuleCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 632818894183526402}
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.32
   m_Height: 2.1397047

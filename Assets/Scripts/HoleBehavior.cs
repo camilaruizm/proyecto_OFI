@@ -18,7 +18,7 @@ public class HoleBehavior : MonoBehaviour {
 
     void Spawn()
     {
-         if(!hasMole)
+         if(!hasMole && GameManager.instance.countDownDone)
          {
             //Se especifica cual es el GameObject que queremos hacer aparecer
              //int num = Random.Range(0,topos.Length);

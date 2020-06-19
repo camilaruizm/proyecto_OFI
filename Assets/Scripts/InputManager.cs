@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class InputManager : MonoBehaviour
 {
+    public GameObject corona;
     void Update()
     {
         if (Input.GetMouseButtonDown(0))
@@ -14,10 +15,11 @@ public class InputManager : MonoBehaviour
             {
                 if (hit.collider.tag == "Topo")
                 {
-                    /*TopoBehaviour topo = hit.collider.gameObject.GetComponent<TopoBehaviour>();
+                    Instantiate(corona,hit.point, Quaternion.identity);
+                   /* TopoBehaviour topo = hit.collider.gameObject.GetComponent<TopoBehaviour>();
                     topo.SwitchCollider(0);
-                    topo.anim.SetTrigger("hit");
-                    Debug.Log(hit.collider.gameObject.name + " GOLPE");*/
+                    topo.anim.SetTrigger("hit");*/
+                   
                 }
             }
         }
