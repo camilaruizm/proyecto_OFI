@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Controller Tester/Scenes/controllerTest.unity
     guid: f4b5988cbcf23d04a83de3a482f540d8
+  - enabled: 1
+    path: Assets/Scenes/Nivel 2.unity
+    guid: d03daa790a06f5f4b8aef881677871c4
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: 22465b0af4ff1294687dba7d44876eb2
+  - enabled: 1
+    path: Assets/Scenes/Instrucciones.unity
+    guid: 41304ae51d597524486f057603053cfa
   m_configObjects: {}

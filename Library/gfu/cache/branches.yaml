@@ -13,21 +13,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-06-12T21:54:19.144-05:00
-  initializedAtString: 2020-06-12T21:54:19.084-05:00
+  lastUpdatedAtString: 2020-06-19T16:23:06.319-05:00
+  initializedAtString: 2020-06-19T16:23:06.290-05:00
   localBranches:
-  - name: camila
-    tracking: origin/camila
+  - name: Kamilo
+    tracking: origin/Kamilo
   - name: master
     tracking: origin/master
   remoteBranches:
-  - name: origin/camila
-    tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/camilaruizm/vr.git
+    url: https://github.com/camilaruizm/proyecto_OFI.git
     login: 
     user: 
     host: 
@@ -35,41 +33,35 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - camila
+    - Kamilo
     - master
     values:
-    - name: camila
+    - name: Kamilo
       remote:
         name: origin
-        url: https://github.com/camilaruizm/vr.git
-      trackingBranch: camila
+        url: https://github.com/camilaruizm/proyecto_OFI.git
+      trackingBranch: Kamilo
     - name: master
       remote:
         name: origin
-        url: https://github.com/camilaruizm/vr.git
+        url: https://github.com/camilaruizm/proyecto_OFI.git
       trackingBranch: master
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
-      - camila
       - master
     subKeyValues:
     - Values:
-      - name: camila
-        remote:
-          name: origin
-          url: https://github.com/camilaruizm/vr.git
-        trackingBranch: 
       - name: master
         remote:
           name: origin
-          url: https://github.com/camilaruizm/vr.git
+          url: https://github.com/camilaruizm/proyecto_OFI.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/camilaruizm/vr.git
+      url: https://github.com/camilaruizm/proyecto_OFI.git
