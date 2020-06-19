@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 7cdc81c53de5a454d9dab031996d875b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: HeadM
+    100004: HeadM001
+    100006: MeshG
+    100008: PoleM
+    100010: TipM
+    100012: Wing1M
+    100014: Wing2M
+    100016: Wing3M
+    400000: //RootNode
+    400002: HeadM
+    400004: HeadM001
+    400006: MeshG
+    400008: PoleM
+    400010: TipM
+    400012: Wing1M
+    400014: Wing2M
+    400016: Wing3M
+    2100000: Cafe
+    2100002: Gris
+    2100004: lambert13
+    2100006: Negro_f
+    2300000: HeadM
+    2300002: HeadM001
+    2300004: PoleM
+    2300006: TipM
+    2300008: Wing1M
+    2300010: Wing2M
+    2300012: Wing3M
+    3300000: HeadM
+    3300002: HeadM001
+    3300004: PoleM
+    3300006: TipM
+    3300008: Wing1M
+    3300010: Wing2M
+    3300012: Wing3M
+    4300000: PoleM
+    4300002: HeadM
+    4300004: HeadM001
+    4300006: TipM
+    4300008: Wing1M
+    4300010: Wing2M
+    4300012: Wing3M
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cafe
+    second: {fileID: 2100000, guid: 85825f48fef75bb42aa2f9c22c3c9025, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gris
+    second: {fileID: 2100000, guid: 343068ddfb7e5c14ca41aefd9b26c13e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Negro_f
+    second: {fileID: 2100000, guid: f881ffcd12660e943b91524869cc0e6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert13
+    second: {fileID: 2100000, guid: 3ccb92de1f59af642a8cc7dc8301e5ba, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
