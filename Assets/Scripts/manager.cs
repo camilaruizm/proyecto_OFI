@@ -13,7 +13,7 @@ public class manager : MonoBehaviour
 
  {
 
-  SceneManager.LoadScene ("scene_name");
+  SceneManager.LoadScene (scene_name);
 
 
  }
