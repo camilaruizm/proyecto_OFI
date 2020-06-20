@@ -6,9 +6,9 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
     //Timer
-    int playTime = 62;
+    int playTime = 60;
     int seconds,minutes;
-    [HideInInspector]public bool countDownDone;
+    [HideInInspector] public bool countDownDone;
 
     void Awake()
     {
@@ -23,17 +23,23 @@ public class GameManager : MonoBehaviour
 
     IEnumerator PlayTimer()
     {
-        while(playTime > 0)
+        yield return new WaitForSeconds(3);
+        while (playTime > 0)
         {
-            yield return new WaitForSeconds(2);
-            playTime--;
-            seconds = playTime % 62;
-            minutes = playTime / 62  % 62;
+            
+            yield return new WaitForSeconds(1);
+            playTime -= 1;
+            seconds = playTime % 60;
+            minutes = playTime / 60 % 60;
+            Debug.Log("Segundo " + playTime);
             UIManager.instance.UpdateTime(minutes,seconds);
         }
-
+        countDownDone = true;
         Debug.Log("Tiempo Terminado");
         //WIN CONDITION
     }
+
+
+  
  
 }

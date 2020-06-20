@@ -8,10 +8,11 @@ public class CountDown : MonoBehaviour
     {
         this.gameObject.SetActive(true);
     }
+
   public void SetCountDown()
   {
-      GameManager.instance.countDownDone = true;
-      GameManager.instance.StartCoroutine ("PlayTimer");
+      //GameManager.instance.countDownDone = true;
+      //GameManager.instance.StartCoroutine ("PlayTimer");
 
       this.gameObject.SetActive(false);
   }

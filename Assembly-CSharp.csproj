@@ -202,6 +202,7 @@
     <Compile Include="Assets\Scripts\DestroyP.cs" />
     <Compile Include="Assets\Scripts\Flecha.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\GameOver.cs" />
     <Compile Include="Assets\Scripts\HoleBehavior.cs" />
     <Compile Include="Assets\Scripts\Inicio.cs" />
     <Compile Include="Assets\Scripts\InicioSonido.cs" />
@@ -214,6 +215,7 @@
     <Compile Include="Assets\Scripts\PopUpText.cs" />
     <Compile Include="Assets\Scripts\RotarCorona.cs" />
     <Compile Include="Assets\Scripts\RotarDiana.cs" />
+    <Compile Include="Assets\Scripts\ScoreHolder.cs" />
     <Compile Include="Assets\Scripts\ScoreManager.cs" />
     <Compile Include="Assets\Scripts\TopoBehaviour.cs" />
     <Compile Include="Assets\Scripts\UIManager.cs" />
