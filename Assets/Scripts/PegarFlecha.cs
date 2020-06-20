@@ -68,7 +68,7 @@ public class PegarFlecha : MonoBehaviour {
     void OnCollisionEnter(Collision collision)
     {
         pegar();        
-        Collider other = collision.collider;
+        Collider other = collision.GetComponent<Collider>();
         transform.parent = other.transform;
 
         if (other.tag == "100" || other.tag == "200" || other.tag == "300")

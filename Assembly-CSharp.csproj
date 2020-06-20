@@ -212,7 +212,9 @@
     <Compile Include="Assets\Scripts\MirarHaciaTarget.cs" />
     <Compile Include="Assets\Scripts\MoverDiana.cs" />
     <Compile Include="Assets\Scripts\PegarFlecha.cs" />
-    <Compile Include="Assets\Scripts\PopUpText.cs" />
+    <Compile Include="Assets\Scripts\Pong\Collision.cs" />
+    <Compile Include="Assets\Scripts\Pong\Launcher.cs" />
+    <Compile Include="Assets\Scripts\Pong\Walls.cs" />
     <Compile Include="Assets\Scripts\RotarCorona.cs" />
     <Compile Include="Assets\Scripts\RotarDiana.cs" />
     <Compile Include="Assets\Scripts\ScoreHolder.cs" />
