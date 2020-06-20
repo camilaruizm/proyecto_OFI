@@ -13,206 +13,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-06-20T16:58:14.755-05:00
+  lastUpdatedAtString: 2020-06-20T17:26:02.775-05:00
   initializedAtString: 2020-06-20T16:56:54.582-05:00
   entries:
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
+  - path: Assets\Scripts\GameManager.cs
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scripts\GameManager.cs
+    projectPath: Assets\Scripts\GameManager.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\AppResources\topoResources\Mats\videos.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Mats\videos.meta
-    projectPath: Assets\AppResources\topoResources\Mats\videos.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\topoResources\Mats\videos\Australia Bushfires 'It's
-      Like Fireballs Exploding In The Air' - Bbc N 1080 X 1920-1.m4v
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Mats\videos\Australia
-      Bushfires 'It's Like Fireballs Exploding In The Air' - Bbc N 1080 X 1920-1.m4v
-    projectPath: Assets\AppResources\topoResources\Mats\videos\Australia Bushfires
-      'It's Like Fireballs Exploding In The Air' - Bbc N 1080 X 1920-1.m4v
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\topoResources\Mats\videos\Australia Bushfires 'It's
-      Like Fireballs Exploding In The Air' - Bbc N 1080 X 1920-1.m4v.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Mats\videos\Australia
-      Bushfires 'It's Like Fireballs Exploding In The Air' - Bbc N 1080 X 1920-1.m4v.meta
-    projectPath: Assets\AppResources\topoResources\Mats\videos\Australia Bushfires
-      'It's Like Fireballs Exploding In The Air' - Bbc N 1080 X 1920-1.m4v.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\topoResources\Mats\videos\Coronavirus-1.m4v
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Mats\videos\Coronavirus-1.m4v
-    projectPath: Assets\AppResources\topoResources\Mats\videos\Coronavirus-1.m4v
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\topoResources\Mats\videos\Coronavirus-1.m4v.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Mats\videos\Coronavirus-1.m4v.meta
-    projectPath: Assets\AppResources\topoResources\Mats\videos\Coronavirus-1.m4v.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\topoResources\Mats\videos\Mensaje De Anonymous Para
-      La Oms 1080 X 1920-1.m4v
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Mats\videos\Mensaje
-      De Anonymous Para La Oms 1080 X 1920-1.m4v
-    projectPath: Assets\AppResources\topoResources\Mats\videos\Mensaje De Anonymous
-      Para La Oms 1080 X 1920-1.m4v
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\topoResources\Mats\videos\Mensaje De Anonymous Para
-      La Oms 1080 X 1920-1.m4v.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Mats\videos\Mensaje
-      De Anonymous Para La Oms 1080 X 1920-1.m4v.meta
-    projectPath: Assets\AppResources\topoResources\Mats\videos\Mensaje De Anonymous
-      Para La Oms 1080 X 1920-1.m4v.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\topoResources\Prefabs\pop.anim
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Prefabs\pop.anim
-    projectPath: Assets\AppResources\topoResources\Prefabs\pop.anim
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\AppResources\topoResources\Prefabs\pop.anim.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Prefabs\pop.anim.meta
-    projectPath: Assets\AppResources\topoResources\Prefabs\pop.anim.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\AppResources\topoResources\Prefabs\pop.controller
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Prefabs\pop.controller
-    projectPath: Assets\AppResources\topoResources\Prefabs\pop.controller
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\AppResources\topoResources\Prefabs\pop.controller.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Prefabs\pop.controller.meta
-    projectPath: Assets\AppResources\topoResources\Prefabs\pop.controller.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\AppResources\topoResources\Prefabs\popFolder.prefab
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Prefabs\popFolder.prefab
-    projectPath: Assets\AppResources\topoResources\Prefabs\popFolder.prefab
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\AppResources\topoResources\Prefabs\popFolder.prefab.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Prefabs\popFolder.prefab.meta
-    projectPath: Assets\AppResources\topoResources\Prefabs\popFolder.prefab.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\AppResources\topoResources\Prefabs\popUp.controller
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Prefabs\popUp.controller
-    projectPath: Assets\AppResources\topoResources\Prefabs\popUp.controller
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\AppResources\topoResources\Prefabs\popUp.controller.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Prefabs\popUp.controller.meta
-    projectPath: Assets\AppResources\topoResources\Prefabs\popUp.controller.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scenes\GUI.unity
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scenes\GUI.unity
-    projectPath: Assets\Scenes\GUI.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\PegarFlecha.cs
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scripts\PegarFlecha.cs
-    projectPath: Assets\Scripts\PegarFlecha.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Scripts\Pong.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scripts\Pong.meta
-    projectPath: Assets\Scripts\Pong.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\popUp.anim
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scripts\popUp.anim
-    projectPath: Assets\Scripts\popUp.anim
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\popUp.anim.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scripts\popUp.anim.meta
-    projectPath: Assets\Scripts\popUp.anim.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\popUpText 1.controller
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scripts\popUpText
-      1.controller
-    projectPath: Assets\Scripts\popUpText 1.controller
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\popUpText 1.controller.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scripts\popUpText
-      1.controller.meta
-    projectPath: Assets\Scripts\popUpText 1.controller.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\popUpText.controller
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scripts\popUpText.controller
-    projectPath: Assets\Scripts\popUpText.controller
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\popUpText.controller.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scripts\popUpText.controller.meta
-    projectPath: Assets\Scripts\popUpText.controller.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\PopUpText.cs
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scripts\PopUpText.cs
-    projectPath: Assets\Scripts\PopUpText.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\PopUpText.cs.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scripts\PopUpText.cs.meta
-    projectPath: Assets\Scripts\PopUpText.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\TopoBehaviour.cs
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scripts\TopoBehaviour.cs
-    projectPath: Assets\Scripts\TopoBehaviour.cs
+  - path: Assets\Scripts\HoleBehavior.cs
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scripts\HoleBehavior.cs
+    projectPath: Assets\Scripts\HoleBehavior.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\assetDatabase3
     fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\assetDatabase3
     projectPath: Library\assetDatabase3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\expandedItems
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\expandedItems
-    projectPath: Library\expandedItems
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -228,12 +46,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
@@ -246,21 +58,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\gfu\cache\repoinfo.yaml
-    projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\LastSceneManagerSetup.txt
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\LastSceneManagerSetup.txt
-    projectPath: Library\LastSceneManagerSetup.txt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\7d\7dfbfe26dda73ce418b00ade66316ca6
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\7d\7dfbfe26dda73ce418b00ade66316ca6
-    projectPath: Library\metadata\7d\7dfbfe26dda73ce418b00ade66316ca6
+  - path: Library\metadata\2b\2bac70bd68933404aa1b978b21f8b058
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\2b\2bac70bd68933404aa1b978b21f8b058
+    projectPath: Library\metadata\2b\2bac70bd68933404aa1b978b21f8b058
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -282,78 +82,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\StateCache\Hierarchy\9a322d-mainStage.json
     fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\StateCache\Hierarchy\9a322d-mainStage.json
     projectPath: Library\StateCache\Hierarchy\9a322d-mainStage.json
@@ -363,30 +91,6 @@ MonoBehaviour:
   - path: Library\StateCache\SceneView\c4eaf7-mainStage.json
     fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\StateCache\SceneView\c4eaf7-mainStage.json
     projectPath: Library\StateCache\SceneView\c4eaf7-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\EditorBuildSettings.asset
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
