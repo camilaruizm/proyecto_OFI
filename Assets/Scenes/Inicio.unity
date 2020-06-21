@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 170076734}
-  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481694, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -441,8 +441,8 @@ GameObject:
   - component: {fileID: 424463789}
   - component: {fileID: 424463788}
   - component: {fileID: 424463787}
-  - component: {fileID: 424463786}
   - component: {fileID: 424463790}
+  - component: {fileID: 424463786}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -459,12 +459,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 424463785}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Script: {fileID: 11500000, guid: 739800cd36aba44e9b04ce977e5784bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_IgnoreReversedGraphics: 1
-  m_BlockingObjects: 0
-  m_BlockingMask:
+  ignoreReversedGraphics: 1
+  blockingObjects: 2
+  blockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
 --- !u!114 &424463787
@@ -518,8 +518,8 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 424463785}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 236}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 9}
+  m_LocalScale: {x: 0.011947411, y: 0.01194741, z: 0.01194741}
   m_Children:
   - {fileID: 1863737620}
   - {fileID: 1073091649}
@@ -529,7 +529,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 640, y: 360}
+  m_AnchoredPosition: {x: -0, y: 0}
   m_SizeDelta: {x: 1279.1, y: 720}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &424463790
