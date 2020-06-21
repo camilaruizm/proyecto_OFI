@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-06-20T22:24:01.214-05:00
-  initializedAtString: 2020-06-20T22:24:01.214-05:00
+  lastUpdatedAtString: 2020-06-21T14:45:36.645-05:00
+  initializedAtString: 2020-06-21T14:45:36.645-05:00
   currentGitRemote:
     name: origin
     url: https://github.com/camilaruizm/proyecto_OFI.git
