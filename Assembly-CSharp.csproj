@@ -218,7 +218,6 @@
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
     <Compile Include="Assets\Scripts\Apuntar.cs" />
     <Compile Include="Assets\Scripts\ChangeScene.cs" />
-    <Compile Include="Assets\Scripts\CountDown.cs" />
     <Compile Include="Assets\Scripts\DepurarForward.cs" />
     <Compile Include="Assets\Scripts\DestroyP.cs" />
     <Compile Include="Assets\Scripts\Flecha.cs" />

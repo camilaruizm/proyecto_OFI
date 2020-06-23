@@ -89,6 +89,6 @@ public class GameSetupController : PhotonSingleton<GameSetupController>
 
     public override void OnLeftRoom()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
 }
