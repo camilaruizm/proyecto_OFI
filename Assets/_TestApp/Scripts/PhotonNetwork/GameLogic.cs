@@ -38,6 +38,7 @@ public class GameLogic : PhotonSingleton<GameLogic>
         //Cambia Turnos
         UITurnManager.Instance.YourPlayer(miID + 1);
         UITurnManager.Instance.GameStarts();
+        UITurnManager.Instance.GameStatus("Game Started");
         if (miID == playingPlayer)
         {
             //Acción del jugador 1
@@ -60,6 +61,7 @@ public class GameLogic : PhotonSingleton<GameLogic>
     private void CambiarTurnos(int playPlay)
     {
         playingPlayer = playPlay;
+        Debug.Log("Cambiar turnos " + playingPlayer);
         UITurnManager.Instance.TurnRoundWinnerInterface(false, 0);
         UITurnManager.Instance.GameStatus("Jugando");
         UITurnManager.Instance.RondaActual(rondaActual + 1);
@@ -91,18 +93,17 @@ public class GameLogic : PhotonSingleton<GameLogic>
             counter -= 1;
         }
         terminaRondaJugador.Invoke();
-        playingPlayer += 1;
-        if (playingPlayer > PhotonNetwork.PlayerList.Length - 1)
+        Debug.Log("Termina contador " + playingPlayer);
+        if (PhotonNetwork.IsMasterClient)
         {
-            playingPlayer = 0;
-            if (PhotonNetwork.IsMasterClient)
+            playingPlayer += 1;
+            Debug.Log("Termina contador " + playingPlayer);
+            if (playingPlayer > PhotonNetwork.PlayerList.Length - 1)
             {
+                playingPlayer = 0;
                 myPhotonView.RPC("PantallaResumen", RpcTarget.All);
             }
-        }
-        else
-        {
-            if (PhotonNetwork.IsMasterClient)
+            else
             {
                 myPhotonView.RPC("CambiarTurnos", RpcTarget.All, playingPlayer);
             }
@@ -134,7 +135,8 @@ public class GameLogic : PhotonSingleton<GameLogic>
                 myPhotonView.RPC("JuegoAcaba", RpcTarget.All);
             }
             yield break;
-        } else
+        }
+        else
         {
             if (PhotonNetwork.IsMasterClient)
             {

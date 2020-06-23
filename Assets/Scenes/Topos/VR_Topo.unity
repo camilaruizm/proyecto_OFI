@@ -1402,7 +1402,6 @@ GameObject:
   - component: {fileID: 928319737}
   - component: {fileID: 928319741}
   - component: {fileID: 928319742}
-  - component: {fileID: 928319743}
   m_Layer: 0
   m_Name: Managers
   m_TagString: Untagged
@@ -1422,7 +1421,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd9632de041875b4fb5c24e39362e827, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waitTime: 0
+  myTurn: 0
 --- !u!4 &928319738
 Transform:
   m_ObjectHideFlags: 0
@@ -1572,19 +1571,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   corona: {fileID: 2134292686047547108, guid: 6af5535f2de48414e9d7fd808242514e, type: 3}
---- !u!114 &928319743
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 928319736}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ca9707c4ddf1def4ba6fc7ab0a56ba40, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  scoreText: {fileID: 984936868}
 --- !u!1001 &946975180
 PrefabInstance:
   m_ObjectHideFlags: 0

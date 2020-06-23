@@ -9,7 +9,7 @@ public class GameManager : MonoBehaviour
     //Timer
     int playTime = 60;
     int seconds,minutes;
-    [HideInInspector] public bool myTurn = true;
+    public bool myTurn = false;
 
     void Awake()
     {
@@ -33,14 +33,23 @@ public class GameManager : MonoBehaviour
 
     public void ComienzaRondaJugador()
     {
-        if (GameLogic.Instance.playingPlayer == GameLogic.Instance.miID)
+
+        if (GameLogic.Instance.miID == GameLogic.Instance.playingPlayer)
         {
+            foreach (GameObject hoyo in GameObject.FindGameObjectsWithTag("Hoyo"))
+            {
+                hoyo.GetComponent<HoleBehavior>().hasMole = false;
+            }
+
             myTurn = true;
-        } else
+        }
+        else
         {
             myTurn = false;
         }
+        Debug.Log("Mi turno " + myTurn + " " + GameLogic.Instance.miID + " " + GameLogic.Instance.playingPlayer);
     }
+
 
     public void TerminaRondaJugador()
     {

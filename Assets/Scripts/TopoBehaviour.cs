@@ -30,6 +30,15 @@ public class TopoBehaviour : MonoBehaviourPunCallbacks
         }
     }
 
+    public void DestruirObjeto()
+    {
+        if (GetComponent<PhotonView>().IsMine)
+        {
+            myParent.GetComponent<HoleBehavior>().hasMole = false;
+            PhotonNetwork.Destroy(gameObject);
+        }
+    }
+
     [PunRPC]
     private void HitTriggerRPC()
     {

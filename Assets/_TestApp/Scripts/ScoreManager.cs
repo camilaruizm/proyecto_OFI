@@ -23,7 +23,7 @@ public class ScoreManager : PhotonSingleton<ScoreManager>
     private void GiveScoreRPC(int player, int score)
     {
         puntajeRondaJugador[player] += score;
-        UITurnManager.Instance.ChangeScore(player, score);
+        UITurnManager.Instance.ChangeScore(player, puntajeRondaJugador[player]);
     }
 
     public void SetPlayerNumber(int playerNumber)
