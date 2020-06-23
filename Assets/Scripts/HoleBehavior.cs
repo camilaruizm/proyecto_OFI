@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Photon.Pun;
+using System.IO;
 
 public class HoleBehavior : MonoBehaviour {
   //lista de GameObject 
@@ -18,13 +20,13 @@ public class HoleBehavior : MonoBehaviour {
 
     void Spawn()
     {
-         if(!hasMole && GameManager.instance.waitTime)
+         if(!hasMole && GameManager.instance.myTurn)
          {
             //Se especifica cual es el GameObject que queremos hacer aparecer
              //int num = Random.Range(0,topos.Length);
              int num = CalculateRarity();
-             //Instanciamos el arreglo de topos y le pasamos el random, el segundo parámetro corresponde a lo que queremos hacer con este GameObject
-             GameObject topo = Instantiate(topos[num],transform.position,Quaternion.Euler(0f,-180f,0f)) as GameObject;
+            //Instanciamos el arreglo de topos y le pasamos el random, el segundo parámetro corresponde a lo que queremos hacer con este GameObject
+             GameObject topo = PhotonNetwork.Instantiate(Path.Combine("PhotonPrefabs", topos[num].name), transform.position, Quaternion.Euler(0f, -180f, 0f));
              topo.GetComponent<TopoBehaviour>().myParent = gameObject;
              hasMole = true;
          }

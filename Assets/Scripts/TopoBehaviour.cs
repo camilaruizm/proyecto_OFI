@@ -1,8 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Photon.Pun;
+using Photon.Realtime;
 
-public class TopoBehaviour : MonoBehaviour
+public class TopoBehaviour : MonoBehaviourPunCallbacks
 {
     Collider col;
     public int hitPoints = 1;
@@ -21,37 +23,43 @@ public class TopoBehaviour : MonoBehaviour
 
     public void HitTrigger()
     {
-        SwitchCollider(0);
-        anim.SetTrigger("hit");
+        if (GetComponent<PhotonView>().IsMine)
+        {
+            SwitchCollider(0);
+            GetComponent<PhotonView>().RPC("HitTriggerRPC", RpcTarget.All);
+        }
     }
 
-    public void DestruirObjeto()
+    [PunRPC]
+    private void HitTriggerRPC()
     {
-        myParent.GetComponent<HoleBehavior>().hasMole = false;
-        Destroy(gameObject);
+        anim.SetTrigger("hit");
     }
 
     public void SwitchCollider(int num)
     {
-        col.enabled = (num == 0) ? false : true;
+        if (GetComponent<PhotonView>().IsMine)
+        {
+            col.enabled = (num == 0) ? false : true;
+        }
     }
 
     public void GotHit()
     {
-        hitPoints--;
-
-        if (hitPoints > 0)
+        if (GetComponent<PhotonView>().IsMine)
         {
-            col.enabled = true;
-        }
-        else
-        {
-            myParent.GetComponent<HoleBehavior>().hasMole = false;
-            ScoreManager.AddScore(score);
-
-         
-
-            Destroy(gameObject);
+            hitPoints--;
+            if (hitPoints > 0)
+            {
+                col.enabled = true;
+            }
+            else
+            {
+                myParent.GetComponent<HoleBehavior>().hasMole = false;
+                //MyScoreManager.AddScore(score);
+                ScoreManager.Instance.GiveScore(GameLogic.Instance.playingPlayer, score);
+                PhotonNetwork.Destroy(gameObject);
+            }
         }
     }
 }

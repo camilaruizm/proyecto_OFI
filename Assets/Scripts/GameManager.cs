@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Photon.Pun;
 
 public class GameManager : MonoBehaviour
 {
@@ -8,40 +9,59 @@ public class GameManager : MonoBehaviour
     //Timer
     int playTime = 60;
     int seconds,minutes;
-    [HideInInspector] public bool waitTime;
+    [HideInInspector] public bool myTurn = true;
 
     void Awake()
     {
         instance = this;
     }
 
-
     void Start()
     {
-        StartCoroutine(PlayTimer());
+        
     }
 
-    IEnumerator PlayTimer()
+    public void IniciaJuego()
     {
-        yield return new WaitForSeconds(3);
-        waitTime = true;
-        while (playTime > 0)
-        {
-            
-           
-            playTime -= 1;
-            seconds = playTime % 60;
-            minutes = playTime / 60 % 60;
-            Debug.Log("Segundo " + playTime);
-            UIManager.instance.UpdateTime(minutes,seconds);
-            yield return new WaitForSeconds(1);
-        }
-       
-        Debug.Log("Tiempo Terminado");
-        //WIN CONDITION
+
     }
 
+    public void CambiarTurnos()
+    {
 
-  
- 
+    }
+
+    public void ComienzaRondaJugador()
+    {
+        if (GameLogic.Instance.playingPlayer == GameLogic.Instance.miID)
+        {
+            myTurn = true;
+        } else
+        {
+            myTurn = false;
+        }
+    }
+
+    public void TerminaRondaJugador()
+    {
+        foreach (GameObject topo in GameObject.FindGameObjectsWithTag("Topo"))
+        {
+            if (topo.GetComponent<PhotonView>().IsMine)
+            {
+                PhotonNetwork.Destroy(topo);
+            }
+        }
+        myTurn = false;
+
+    }
+
+    public void PantallaResumen()
+    {
+
+    }
+
+    public void TerminaJuego()
+    {
+
+    }
 }

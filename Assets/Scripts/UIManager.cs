@@ -26,6 +26,6 @@ public class UIManager : MonoBehaviour
 
     public void UpdateUI()
     {
-        scoreText.text = "Puntaje: "  +    ScoreManager.ReadScore();
+        scoreText.text = "Puntaje: "  +    MyScoreManager.ReadScore();
     } 
 }

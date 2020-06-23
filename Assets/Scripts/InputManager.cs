@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.IO;
+using Photon.Pun;
 
 public class InputManager : MonoBehaviour
 {
@@ -9,17 +11,16 @@ public class InputManager : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
-            RaycastHit hit;
-            if (Physics.Raycast(ray, out hit))
+            if (GameManager.instance.myTurn)
             {
-                if (hit.collider.tag == "Topo")
+                Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+                RaycastHit hit;
+                if (Physics.Raycast(ray, out hit))
                 {
-                    Instantiate(corona,hit.point, Quaternion.identity);
-                   /* TopoBehaviour topo = hit.collider.gameObject.GetComponent<TopoBehaviour>();
-                    topo.SwitchCollider(0);
-                    topo.anim.SetTrigger("hit");*/
-                   
+                    if (hit.collider.tag == "Topo")
+                    {
+                        GameObject topo = PhotonNetwork.Instantiate(Path.Combine("PhotonPrefabs", corona.name), hit.point, Quaternion.identity);
+                    }
                 }
             }
         }
