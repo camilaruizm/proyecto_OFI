@@ -13,374 +13,906 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-06-23T16:35:03.743-05:00
-  initializedAtString: 2020-06-23T10:06:33.683-05:00
+  lastUpdatedAtString: 2020-06-23T14:15:06.003-05:00
+  initializedAtString: 2020-06-23T13:38:58.898-05:00
   entries:
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
+  - path: Assets\AppResources\Materials.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\Materials.meta
+    projectPath: Assets\AppResources\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\Materials\White-Wood-Texture.mat
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\Materials\White-Wood-Texture.mat
+    projectPath: Assets\AppResources\Materials\White-Wood-Texture.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\Materials\White-Wood-Texture.mat.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\Materials\White-Wood-Texture.mat.meta
+    projectPath: Assets\AppResources\Materials\White-Wood-Texture.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources.meta
+    projectPath: Assets\AppResources\PongResources.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Materials.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Materials.meta
+    projectPath: Assets\AppResources\PongResources\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\AppResources\\PongResources\\Materials\\Caj\xF3n-Pong.prefab"
+    fullPath: "C:\\Users\\mafer\\Documents\\GitHub\\proyecto_OFI\\Assets\\AppResources\\PongResources\\Materials\\Caj\xF3n-Pong.prefab"
+    projectPath: "Assets\\AppResources\\PongResources\\Materials\\Caj\xF3n-Pong.prefab"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\AppResources\\PongResources\\Materials\\Caj\xF3n-Pong.prefab.meta"
+    fullPath: "C:\\Users\\mafer\\Documents\\GitHub\\proyecto_OFI\\Assets\\AppResources\\PongResources\\Materials\\Caj\xF3n-Pong.prefab.meta"
+    projectPath: "Assets\\AppResources\\PongResources\\Materials\\Caj\xF3n-Pong.prefab.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Materials\gg - copy.mat
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Materials\gg
+      - copy.mat
+    projectPath: Assets\AppResources\PongResources\Materials\gg - copy.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Materials\gg - copy.mat.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Materials\gg
+      - copy.mat.meta
+    projectPath: Assets\AppResources\PongResources\Materials\gg - copy.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Materials\gg.mat
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Materials\gg.mat
+    projectPath: Assets\AppResources\PongResources\Materials\gg.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Materials\gg.mat.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Materials\gg.mat.meta
+    projectPath: Assets\AppResources\PongResources\Materials\gg.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Materials\Low-Poly_Plastic cup_color.mat
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Materials\Low-Poly_Plastic
+      cup_color.mat
+    projectPath: Assets\AppResources\PongResources\Materials\Low-Poly_Plastic cup_color.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Materials\Low-Poly_Plastic cup_color.mat.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Materials\Low-Poly_Plastic
+      cup_color.mat.meta
+    projectPath: Assets\AppResources\PongResources\Materials\Low-Poly_Plastic cup_color.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Materials\Low-Poly_Plastic cup_nmap.mat
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Materials\Low-Poly_Plastic
+      cup_nmap.mat
+    projectPath: Assets\AppResources\PongResources\Materials\Low-Poly_Plastic cup_nmap.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Materials\Low-Poly_Plastic cup_nmap.mat.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Materials\Low-Poly_Plastic
+      cup_nmap.mat.meta
+    projectPath: Assets\AppResources\PongResources\Materials\Low-Poly_Plastic cup_nmap.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Materials\vaso2-05.mat
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Materials\vaso2-05.mat
+    projectPath: Assets\AppResources\PongResources\Materials\vaso2-05.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Materials\vaso2-05.mat.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Materials\vaso2-05.mat.meta
+    projectPath: Assets\AppResources\PongResources\Materials\vaso2-05.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Modelos.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Modelos.meta
+    projectPath: Assets\AppResources\PongResources\Modelos.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Modelos\gg - copy.png
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Modelos\gg
+      - copy.png
+    projectPath: Assets\AppResources\PongResources\Modelos\gg - copy.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Modelos\gg - copy.png.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Modelos\gg
+      - copy.png.meta
+    projectPath: Assets\AppResources\PongResources\Modelos\gg - copy.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Modelos\Low-Poly_Plastic cup_nmap.png
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Modelos\Low-Poly_Plastic
+      cup_nmap.png
+    projectPath: Assets\AppResources\PongResources\Modelos\Low-Poly_Plastic cup_nmap.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Modelos\Low-Poly_Plastic cup_nmap.png.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Modelos\Low-Poly_Plastic
+      cup_nmap.png.meta
+    projectPath: Assets\AppResources\PongResources\Modelos\Low-Poly_Plastic cup_nmap.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Modelos\Plastic_Cup-(Wavefront OBJ).mtl
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Modelos\Plastic_Cup-(Wavefront
+      OBJ).mtl
+    projectPath: Assets\AppResources\PongResources\Modelos\Plastic_Cup-(Wavefront
+      OBJ).mtl
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Modelos\Plastic_Cup-(Wavefront OBJ).mtl.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Modelos\Plastic_Cup-(Wavefront
+      OBJ).mtl.meta
+    projectPath: Assets\AppResources\PongResources\Modelos\Plastic_Cup-(Wavefront
+      OBJ).mtl.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Modelos\Plastic_Cup-(Wavefront OBJ).obj
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Modelos\Plastic_Cup-(Wavefront
+      OBJ).obj
+    projectPath: Assets\AppResources\PongResources\Modelos\Plastic_Cup-(Wavefront
+      OBJ).obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Modelos\Plastic_Cup-(Wavefront OBJ).obj.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Modelos\Plastic_Cup-(Wavefront
+      OBJ).obj.meta
+    projectPath: Assets\AppResources\PongResources\Modelos\Plastic_Cup-(Wavefront
+      OBJ).obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Modelos\vaso2-05.png
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Modelos\vaso2-05.png
+    projectPath: Assets\AppResources\PongResources\Modelos\vaso2-05.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Modelos\vaso2-05.png.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Modelos\vaso2-05.png.meta
+    projectPath: Assets\AppResources\PongResources\Modelos\vaso2-05.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\Pong.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\Pong.meta
+    projectPath: Assets\AppResources\PongResources\Pong.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\PongPrefabs.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\PongPrefabs.meta
+    projectPath: Assets\AppResources\PongResources\PongPrefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\PongPrefabs\Cup.prefab
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\PongPrefabs\Cup.prefab
+    projectPath: Assets\AppResources\PongResources\PongPrefabs\Cup.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\PongPrefabs\Cup.prefab.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\PongPrefabs\Cup.prefab.meta
+    projectPath: Assets\AppResources\PongResources\PongPrefabs\Cup.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\PongPrefabs\Materials.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\PongPrefabs\Materials.meta
+    projectPath: Assets\AppResources\PongResources\PongPrefabs\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\PongPrefabs\Materials\Circle.mat
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\PongPrefabs\Materials\Circle.mat
+    projectPath: Assets\AppResources\PongResources\PongPrefabs\Materials\Circle.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\PongPrefabs\Materials\Circle.mat.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\PongPrefabs\Materials\Circle.mat.meta
+    projectPath: Assets\AppResources\PongResources\PongPrefabs\Materials\Circle.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\PongPrefabs\Proyectil.prefab
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\PongPrefabs\Proyectil.prefab
+    projectPath: Assets\AppResources\PongResources\PongPrefabs\Proyectil.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\PongResources\PongPrefabs\Proyectil.prefab.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\PongResources\PongPrefabs\Proyectil.prefab.meta
+    projectPath: Assets\AppResources\PongResources\PongPrefabs\Proyectil.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\topoResources\Mats\Materials\pared-06.mat
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\topoResources\Mats\Materials\pared-06.mat
+    projectPath: Assets\AppResources\topoResources\Mats\Materials\pared-06.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\topoResources\Mats\Materials\pared-06.mat.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\topoResources\Mats\Materials\pared-06.mat.meta
+    projectPath: Assets\AppResources\topoResources\Mats\Materials\pared-06.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\topoResources\Mats\Materials\White-Wood-Texture.jpg
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\topoResources\Mats\Materials\White-Wood-Texture.jpg
+    projectPath: Assets\AppResources\topoResources\Mats\Materials\White-Wood-Texture.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\topoResources\Mats\Materials\White-Wood-Texture.jpg.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\topoResources\Mats\Materials\White-Wood-Texture.jpg.meta
+    projectPath: Assets\AppResources\topoResources\Mats\Materials\White-Wood-Texture.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\topoResources\UI\Materials.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\topoResources\UI\Materials.meta
+    projectPath: Assets\AppResources\topoResources\UI\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\topoResources\UI\Materials\portadaPong-03.mat
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\topoResources\UI\Materials\portadaPong-03.mat
+    projectPath: Assets\AppResources\topoResources\UI\Materials\portadaPong-03.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\topoResources\UI\Materials\portadaPong-03.mat.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\topoResources\UI\Materials\portadaPong-03.mat.meta
+    projectPath: Assets\AppResources\topoResources\UI\Materials\portadaPong-03.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\topoResources\UI\portadaPong-03.jpg
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\topoResources\UI\portadaPong-03.jpg
+    projectPath: Assets\AppResources\topoResources\UI\portadaPong-03.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\topoResources\UI\portadaPong-03.jpg.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\AppResources\topoResources\UI\portadaPong-03.jpg.meta
+    projectPath: Assets\AppResources\topoResources\UI\portadaPong-03.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Photon\PhotonUnityNetworking\Code\Editor\PunSceneSettingsFile.asset
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Photon\PhotonUnityNetworking\Code\Editor\PunSceneSettingsFile.asset
+    projectPath: Assets\Photon\PhotonUnityNetworking\Code\Editor\PunSceneSettingsFile.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\_TestApp\Scripts\PhotonNetwork\GameSetupController.cs
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\_TestApp\Scripts\PhotonNetwork\GameSetupController.cs
-    projectPath: Assets\_TestApp\Scripts\PhotonNetwork\GameSetupController.cs
+  - path: Assets\Scenes\BeerPong\Pong.unity
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\BeerPong\Pong.unity
+    projectPath: Assets\Scenes\BeerPong\Pong.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\BeerPong\Pong.unity.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\BeerPong\Pong.unity.meta
+    projectPath: Assets\Scenes\BeerPong\Pong.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Materials.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Materials.meta
+    projectPath: Assets\Scenes\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Materials\Circle.mat
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Materials\Circle.mat
+    projectPath: Assets\Scenes\Materials\Circle.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Materials\Circle.mat.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Materials\Circle.mat.meta
+    projectPath: Assets\Scenes\Materials\Circle.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong.meta
+    projectPath: Assets\Scenes\Pong.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\LightingData.asset
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\LightingData.asset
+    projectPath: Assets\Scenes\Pong\LightingData.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\LightingData.asset.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\LightingData.asset.meta
+    projectPath: Assets\Scenes\Pong\LightingData.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\Lightmap-0_comp_dir.png
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\Lightmap-0_comp_dir.png
+    projectPath: Assets\Scenes\Pong\Lightmap-0_comp_dir.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\Lightmap-0_comp_dir.png.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\Lightmap-0_comp_dir.png.meta
+    projectPath: Assets\Scenes\Pong\Lightmap-0_comp_dir.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\Lightmap-0_comp_light.exr
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\Lightmap-0_comp_light.exr
+    projectPath: Assets\Scenes\Pong\Lightmap-0_comp_light.exr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\Lightmap-0_comp_light.exr.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\Lightmap-0_comp_light.exr.meta
+    projectPath: Assets\Scenes\Pong\Lightmap-0_comp_light.exr.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\Lightmap-1_comp_dir.png
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\Lightmap-1_comp_dir.png
+    projectPath: Assets\Scenes\Pong\Lightmap-1_comp_dir.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\Lightmap-1_comp_dir.png.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\Lightmap-1_comp_dir.png.meta
+    projectPath: Assets\Scenes\Pong\Lightmap-1_comp_dir.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\Lightmap-1_comp_light.exr
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\Lightmap-1_comp_light.exr
+    projectPath: Assets\Scenes\Pong\Lightmap-1_comp_light.exr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\Lightmap-1_comp_light.exr.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\Lightmap-1_comp_light.exr.meta
+    projectPath: Assets\Scenes\Pong\Lightmap-1_comp_light.exr.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\Lightmap-2_comp_dir.png
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\Lightmap-2_comp_dir.png
+    projectPath: Assets\Scenes\Pong\Lightmap-2_comp_dir.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\Lightmap-2_comp_dir.png.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\Lightmap-2_comp_dir.png.meta
+    projectPath: Assets\Scenes\Pong\Lightmap-2_comp_dir.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\Lightmap-2_comp_light.exr
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\Lightmap-2_comp_light.exr
+    projectPath: Assets\Scenes\Pong\Lightmap-2_comp_light.exr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\Lightmap-2_comp_light.exr.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\Lightmap-2_comp_light.exr.meta
+    projectPath: Assets\Scenes\Pong\Lightmap-2_comp_light.exr.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\Lightmap-3_comp_dir.png
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\Lightmap-3_comp_dir.png
+    projectPath: Assets\Scenes\Pong\Lightmap-3_comp_dir.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\Lightmap-3_comp_dir.png.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\Lightmap-3_comp_dir.png.meta
+    projectPath: Assets\Scenes\Pong\Lightmap-3_comp_dir.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\Lightmap-3_comp_light.exr
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\Lightmap-3_comp_light.exr
+    projectPath: Assets\Scenes\Pong\Lightmap-3_comp_light.exr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\Lightmap-3_comp_light.exr.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\Lightmap-3_comp_light.exr.meta
+    projectPath: Assets\Scenes\Pong\Lightmap-3_comp_light.exr.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\Lightmap-4_comp_dir.png
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\Lightmap-4_comp_dir.png
+    projectPath: Assets\Scenes\Pong\Lightmap-4_comp_dir.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\Lightmap-4_comp_dir.png.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\Lightmap-4_comp_dir.png.meta
+    projectPath: Assets\Scenes\Pong\Lightmap-4_comp_dir.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\Lightmap-4_comp_light.exr
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\Lightmap-4_comp_light.exr
+    projectPath: Assets\Scenes\Pong\Lightmap-4_comp_light.exr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\Lightmap-4_comp_light.exr.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\Lightmap-4_comp_light.exr.meta
+    projectPath: Assets\Scenes\Pong\Lightmap-4_comp_light.exr.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\ReflectionProbe-0.exr
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\ReflectionProbe-0.exr
+    projectPath: Assets\Scenes\Pong\ReflectionProbe-0.exr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Pong\ReflectionProbe-0.exr.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scenes\Pong\ReflectionProbe-0.exr.meta
+    projectPath: Assets\Scenes\Pong\ReflectionProbe-0.exr.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Pong\Collision.cs
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scripts\Pong\Collision.cs
+    projectPath: Assets\Scripts\Pong\Collision.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\AppResources\topoResources\Mats\Materials\paredes.mat
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Mats\Materials\paredes.mat
-    projectPath: Assets\AppResources\topoResources\Mats\Materials\paredes.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\topoResources\Mats\Materials\paredes.mat.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Mats\Materials\paredes.mat.meta
-    projectPath: Assets\AppResources\topoResources\Mats\Materials\paredes.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_albedo.tif
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_albedo.tif
-    projectPath: Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_albedo.tif
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_albedo.tif.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_albedo.tif.meta
-    projectPath: Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_albedo.tif.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_ao.tif
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_ao.tif
-    projectPath: Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_ao.tif
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_ao.tif.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_ao.tif.meta
-    projectPath: Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_ao.tif.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_height.tif
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_height.tif
-    projectPath: Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_height.tif
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_height.tif.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_height.tif.meta
-    projectPath: Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_height.tif.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_normal.tif
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_normal.tif
-    projectPath: Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_normal.tif
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_normal.tif.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_normal.tif.meta
-    projectPath: Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_normal.tif.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_roughness.tif
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_roughness.tif
-    projectPath: Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_roughness.tif
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_roughness.tif.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_roughness.tif.meta
-    projectPath: Assets\AppResources\topoResources\Mats\Materials\TexturesCom_CliffLayered_1K_roughness.tif.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\topoResources\UI\asw@4x-100.jpg
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\UI\asw@4x-100.jpg
-    projectPath: Assets\AppResources\topoResources\UI\asw@4x-100.jpg
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\topoResources\UI\asw@4x-100.jpg.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\topoResources\UI\asw@4x-100.jpg.meta
-    projectPath: Assets\AppResources\topoResources\UI\asw@4x-100.jpg.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scenes\Topos\ToposMultiplayer.unity
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scenes\Topos\ToposMultiplayer.unity
-    projectPath: Assets\Scenes\Topos\ToposMultiplayer.unity
+  - path: Assets\Scripts\Pong\Launcher.cs
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scripts\Pong\Launcher.cs
+    projectPath: Assets\Scripts\Pong\Launcher.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scenes\UI\Lobby.unity
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scenes\UI\Lobby.unity
-    projectPath: Assets\Scenes\UI\Lobby.unity
+  - path: Assets\Scripts\Pong\PongScore.cs
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scripts\Pong\PongScore.cs
+    projectPath: Assets\Scripts\Pong\PongScore.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Pong\PongScore.cs.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scripts\Pong\PongScore.cs.meta
+    projectPath: Assets\Scripts\Pong\PongScore.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Pong\UIPong.cs
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scripts\Pong\UIPong.cs
+    projectPath: Assets\Scripts\Pong\UIPong.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Pong\UIPong.cs.meta
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scripts\Pong\UIPong.cs.meta
+    projectPath: Assets\Scripts\Pong\UIPong.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Pong\Walls.cs
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Assets\Scripts\Pong\Walls.cs
+    projectPath: Assets\Scripts\Pong\Walls.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\CountDown.cs
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scripts\CountDown.cs
-    projectPath: Assets\Scripts\CountDown.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Scripts\CountDown.cs.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scripts\CountDown.cs.meta
-    projectPath: Assets\Scripts\CountDown.cs.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\TextMesh Pro\Resources\Fonts
-      & Materials\LiberationSans SDF - Fallback.asset
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Fallback.asset
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\assetDatabase3
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\assetDatabase3
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\expandedItems
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\expandedItems
-    projectPath: Library\expandedItems
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\LastSceneManagerSetup.txt
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\LastSceneManagerSetup.txt
-    projectPath: Library\LastSceneManagerSetup.txt
+  - path: Library\metadata\04\04480350618cc074a827950f41351001
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\04\04480350618cc074a827950f41351001
+    projectPath: Library\metadata\04\04480350618cc074a827950f41351001
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\2e\2e498d1c8094910479dc3e1b768306a4.info
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\2e\2e498d1c8094910479dc3e1b768306a4.info
-    projectPath: Library\metadata\2e\2e498d1c8094910479dc3e1b768306a4.info
+  - path: Library\metadata\04\04480350618cc074a827950f41351001.info
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\04\04480350618cc074a827950f41351001.info
+    projectPath: Library\metadata\04\04480350618cc074a827950f41351001.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\06\06c434d435c4b1a4aa1c6952716acd4e
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\06\06c434d435c4b1a4aa1c6952716acd4e
+    projectPath: Library\metadata\06\06c434d435c4b1a4aa1c6952716acd4e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\06\06c434d435c4b1a4aa1c6952716acd4e.info
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\06\06c434d435c4b1a4aa1c6952716acd4e.info
+    projectPath: Library\metadata\06\06c434d435c4b1a4aa1c6952716acd4e.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\18\18af28ada71f0864b8fd3821a7fd8e85
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\18\18af28ada71f0864b8fd3821a7fd8e85
+    projectPath: Library\metadata\18\18af28ada71f0864b8fd3821a7fd8e85
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\1a\1ae6db4af818bbd47aa24615bc34aedf
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\1a\1ae6db4af818bbd47aa24615bc34aedf
+    projectPath: Library\metadata\1a\1ae6db4af818bbd47aa24615bc34aedf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\1a\1ae6db4af818bbd47aa24615bc34aedf.info
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\1a\1ae6db4af818bbd47aa24615bc34aedf.info
+    projectPath: Library\metadata\1a\1ae6db4af818bbd47aa24615bc34aedf.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\67\672630013670259488acf61176ac3aa9
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\67\672630013670259488acf61176ac3aa9
+    projectPath: Library\metadata\67\672630013670259488acf61176ac3aa9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\67\672630013670259488acf61176ac3aa9.info
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\67\672630013670259488acf61176ac3aa9.info
+    projectPath: Library\metadata\67\672630013670259488acf61176ac3aa9.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\6c\6c55a3c5fd8a34a438b0ad068fe20cd4
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\6c\6c55a3c5fd8a34a438b0ad068fe20cd4
+    projectPath: Library\metadata\6c\6c55a3c5fd8a34a438b0ad068fe20cd4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\6c\6c55a3c5fd8a34a438b0ad068fe20cd4.info
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\6c\6c55a3c5fd8a34a438b0ad068fe20cd4.info
+    projectPath: Library\metadata\6c\6c55a3c5fd8a34a438b0ad068fe20cd4.info
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\ba\bae0131afa41dbe4e8c5a2b1eca05e9a.info
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\ba\bae0131afa41dbe4e8c5a2b1eca05e9a.info
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\ba\bae0131afa41dbe4e8c5a2b1eca05e9a.info
     projectPath: Library\metadata\ba\bae0131afa41dbe4e8c5a2b1eca05e9a.info
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\da\da1f81a5913ef0a4192a4c24cc767eb7.info
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\da\da1f81a5913ef0a4192a4c24cc767eb7.info
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\da\da1f81a5913ef0a4192a4c24cc767eb7.info
     projectPath: Library\metadata\da\da1f81a5913ef0a4192a4c24cc767eb7.info
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f5\f541aafaad6974e44bb02b8c61a749ce
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\f5\f541aafaad6974e44bb02b8c61a749ce
+    projectPath: Library\metadata\f5\f541aafaad6974e44bb02b8c61a749ce
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f5\f541aafaad6974e44bb02b8c61a749ce.info
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\f5\f541aafaad6974e44bb02b8c61a749ce.info
+    projectPath: Library\metadata\f5\f541aafaad6974e44bb02b8c61a749ce.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f7\f767939259df36448bd04aa1b5ed2dde
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\f7\f767939259df36448bd04aa1b5ed2dde
+    projectPath: Library\metadata\f7\f767939259df36448bd04aa1b5ed2dde
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f7\f767939259df36448bd04aa1b5ed2dde.info
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\metadata\f7\f767939259df36448bd04aa1b5ed2dde.info
+    projectPath: Library\metadata\f7\f767939259df36448bd04aa1b5ed2dde.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\Assembly-CSharp.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\Unity.Rider.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\Unity.TextMeshPro.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\Unity.Timeline.dll
     projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\UnityEditor.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.pdb
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\UnityEditor.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\UnityEngine.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ScriptAssemblies\UnityEngine.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\shadercompiler-UnityShaderCompiler.exe1.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\shadercompiler-UnityShaderCompiler.exe2.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\StateCache\Hierarchy\9a322d-mainStage.json
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\StateCache\Hierarchy\9a322d-mainStage.json
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\StateCache\Hierarchy\9a322d-mainStage.json
     projectPath: Library\StateCache\Hierarchy\9a322d-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\StateCache\SceneView\c4eaf7-mainStage.json
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\StateCache\SceneView\c4eaf7-mainStage.json
+    fullPath: C:\Users\mafer\Documents\GitHub\proyecto_OFI\Library\StateCache\SceneView\c4eaf7-mainStage.json
     projectPath: Library\StateCache\SceneView\c4eaf7-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\EditorBuildSettings.asset
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
