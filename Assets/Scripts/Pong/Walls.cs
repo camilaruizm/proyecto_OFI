@@ -20,7 +20,6 @@ public class Walls : MonoBehaviour
     {
         if (collider.gameObject.tag == "Ball")
         {
-            print("ya");
             Destroy(collider.gameObject); //Bola
         }
 
