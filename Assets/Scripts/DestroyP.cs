@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Photon.Pun;
 
 public class DestroyP : MonoBehaviour
 {
@@ -8,8 +9,16 @@ public class DestroyP : MonoBehaviour
    
     void Start()
     {
-        Destroy(gameObject,destroyTime);
+        StartCoroutine(DestroyParticle());
     }
 
-   
+    IEnumerator DestroyParticle()
+    {
+        yield return new WaitForSeconds(destroyTime);
+        if (GetComponent<PhotonView>().IsMine)
+        {
+            PhotonNetwork.Destroy(gameObject);
+        }
+    }
+
 }

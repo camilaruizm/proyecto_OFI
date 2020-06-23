@@ -15,10 +15,13 @@ public class Launcher : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-         if (Input.GetMouseButtonDown(0)){
-             Debug.Log("Pressed primary button.");
-             GameObject bullet = Instantiate(proyectilPrefab, transform.position, Quaternion.identity) as GameObject;
-             bullet.GetComponent<Rigidbody>().AddForce(transform.forward * 1000);
-         }
+        if (PongScore.ReadScore() != 3) {
+
+            if (Input.GetMouseButtonDown(0)) {
+                Debug.Log("Pressed primary button.");
+                GameObject bullet = Instantiate(proyectilPrefab, transform.position, Quaternion.identity) as GameObject;
+                bullet.GetComponent<Rigidbody>().AddForce(transform.forward * 1000);
+            }
+        }
     }
 }

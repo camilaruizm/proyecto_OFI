@@ -63,11 +63,11 @@ public class PegarFlecha : MonoBehaviour {
                 esPuntos = false;
             }
         }
-	}   
-    
-    void OnCollisionEnter(Collision collision)
+	}
+
+    private void OnTriggerEnter(Collider collision)
     {
-        pegar();        
+        pegar();
         Collider other = collision.GetComponent<Collider>();
         transform.parent = other.transform;
 
@@ -76,7 +76,7 @@ public class PegarFlecha : MonoBehaviour {
             transform.parent = other.transform;
             esPuntos = true;
             Tag = other.tag;
-            
+
 
             switch (Tag)
             {
