@@ -234,6 +234,8 @@
     <Compile Include="Assets\Scripts\PegarFlecha.cs" />
     <Compile Include="Assets\Scripts\Pong\Collision.cs" />
     <Compile Include="Assets\Scripts\Pong\Launcher.cs" />
+    <Compile Include="Assets\Scripts\Pong\PongScore.cs" />
+    <Compile Include="Assets\Scripts\Pong\UIPong.cs" />
     <Compile Include="Assets\Scripts\Pong\Walls.cs" />
     <Compile Include="Assets\Scripts\RotarCorona.cs" />
     <Compile Include="Assets\Scripts\RotarDiana.cs" />
