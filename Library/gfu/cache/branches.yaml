@@ -13,14 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-06-23T18:56:47.554-05:00
-  initializedAtString: 2020-06-23T18:56:47.415-05:00
+  lastUpdatedAtString: 2020-06-25T15:46:53.757-05:00
+  initializedAtString: 2020-06-25T15:46:53.704-05:00
   localBranches:
-  - name: Kamilo
-    tracking: origin/Kamilo
   - name: master
     tracking: origin/master
   remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
   remotes:
@@ -33,14 +33,8 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - Kamilo
     - master
     values:
-    - name: Kamilo
-      remote:
-        name: origin
-        url: https://github.com/camilaruizm/proyecto_OFI.git
-      trackingBranch: Kamilo
     - name: master
       remote:
         name: origin
@@ -51,9 +45,15 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+      - HEAD
       - master
     subKeyValues:
     - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/camilaruizm/proyecto_OFI.git
+        trackingBranch: 
       - name: master
         remote:
           name: origin
