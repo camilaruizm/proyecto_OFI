@@ -640,17 +640,17 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: 1a4a025c903835a4abe3fd368b15e2c0,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 16.666668
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 1a4a025c903835a4abe3fd368b15e2c0,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 16.666668
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: 1a4a025c903835a4abe3fd368b15e2c0,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 16.666668
+      value: 0.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1a4a025c903835a4abe3fd368b15e2c0, type: 3}
@@ -1996,17 +1996,17 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: ba305962ccbc67345ad325a8e2e5bb49,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 16.666668
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: ba305962ccbc67345ad325a8e2e5bb49,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 16.666668
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: ba305962ccbc67345ad325a8e2e5bb49,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 16.666672
+      value: 0.2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba305962ccbc67345ad325a8e2e5bb49, type: 3}
@@ -4573,28 +4573,6 @@ MonoBehaviour:
           m_CallState: 2
       m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
         Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
---- !u!1 &1806394957 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 100002, guid: 5e9e851c0e142814dac026a256ba2ac0,
-    type: 3}
-  m_PrefabInstance: {fileID: 1375937762}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1806394962
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1806394957}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eb5dd43baba2d4dc1bab789615567e3d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  raycasterEventMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  maxRaycastHits: 64
 --- !u!1 &1900316941
 GameObject:
   m_ObjectHideFlags: 0
