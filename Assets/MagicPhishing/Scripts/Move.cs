@@ -28,16 +28,20 @@ public class Move : MonoBehaviour
         horizontalMove = Input.GetAxis("Horizontal");
         verticalMove = Input.GetAxis("Vertical");
 
-        playerInput = new Vector3(horizontalMove, 0, verticalMove);
+        playerInput = new Vector3(-horizontalMove, 0, -verticalMove);
         
         player.Move(playerInput * playerSpeed * Time.deltaTime);
 
         if(Input.GetKey(KeyCode.DownArrow))
         {
+            pescar.x = transform.position.x;
+            pescar.z = transform.position.z;
             transform.position = Vector3.MoveTowards(transform.position, pescar, pescaSpeed);
         }
         if(Input.GetKey(KeyCode.UpArrow))
         {
+            posInicial.x = transform.position.x;
+            posInicial.z = transform.position.z;
             transform.position = Vector3.MoveTowards(transform.position, posInicial, pescaSpeed);
         }
     }
