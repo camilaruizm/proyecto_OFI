@@ -13,42 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-06-23T18:52:12.402-05:00
-  initializedAtString: 2020-06-23T18:26:13.678-05:00
+  lastUpdatedAtString: 2020-06-23T20:03:03.863-05:00
+  initializedAtString: 2020-06-23T19:20:44.948-05:00
   entries:
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
+  - path: Assets\Scenes\Topos\ToposMultiplayer.unity
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scenes\Topos\ToposMultiplayer.unity
+    projectPath: Assets\Scenes\Topos\ToposMultiplayer.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\AppResources\PongResources\Modelos\red.mat
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\PongResources\Modelos\red.mat
-    projectPath: Assets\AppResources\PongResources\Modelos\red.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\PongResources\Modelos\red.mat.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\PongResources\Modelos\red.mat.meta
-    projectPath: Assets\AppResources\PongResources\Modelos\red.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\AppResources\PongResources\Pong.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\AppResources\PongResources\Pong.meta
-    projectPath: Assets\AppResources\PongResources\Pong.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Assets\Scenes\UI\Lobby.unity
     fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scenes\UI\Lobby.unity
     projectPath: Assets\Scenes\UI\Lobby.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\APIUpdater\project-dependencies.graph
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\APIUpdater\project-dependencies.graph
-    projectPath: Library\APIUpdater\project-dependencies.graph
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -58,9 +34,39 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\expandedItems
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -82,51 +88,123 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
-    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+  - path: Library\LastBuild.buildreport
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\LastBuild.buildreport
+    projectPath: Library\LastBuild.buildreport
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\13\136dc24f151211d438acee17aff4e934
-    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\18\18af28ada71f0864b8fd3821a7fd8e85
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\18\18af28ada71f0864b8fd3821a7fd8e85
-    projectPath: Library\metadata\18\18af28ada71f0864b8fd3821a7fd8e85
+  - path: Library\metadata\ba\bae0131afa41dbe4e8c5a2b1eca05e9a.info
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\ba\bae0131afa41dbe4e8c5a2b1eca05e9a.info
+    projectPath: Library\metadata\ba\bae0131afa41dbe4e8c5a2b1eca05e9a.info
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\2e\2e498d1c8094910479dc3e1b768306a4.info
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\2e\2e498d1c8094910479dc3e1b768306a4.info
-    projectPath: Library\metadata\2e\2e498d1c8094910479dc3e1b768306a4.info
+  - path: Library\metadata\da\da1f81a5913ef0a4192a4c24cc767eb7.info
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\da\da1f81a5913ef0a4192a4c24cc767eb7.info
+    projectPath: Library\metadata\da\da1f81a5913ef0a4192a4c24cc767eb7.info
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
-    projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+  - path: Library\PlayerDataCache\Android\Data\2e498d1c8094910479dc3e1b768306a4
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\PlayerDataCache\Android\Data\2e498d1c8094910479dc3e1b768306a4
+    projectPath: Library\PlayerDataCache\Android\Data\2e498d1c8094910479dc3e1b768306a4
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
-    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+  - path: Library\PlayerDataCache\Android\Data\3f5b5dff67a942289a9defa416b206f3
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\PlayerDataCache\Android\Data\3f5b5dff67a942289a9defa416b206f3
+    projectPath: Library\PlayerDataCache\Android\Data\3f5b5dff67a942289a9defa416b206f3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
-    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+  - path: Library\PlayerDataCache\Android\Data\8f586378b4e144a9851e7b34d9b748ee
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\PlayerDataCache\Android\Data\8f586378b4e144a9851e7b34d9b748ee
+    projectPath: Library\PlayerDataCache\Android\Data\8f586378b4e144a9851e7b34d9b748ee
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\SceneVisibilityState.asset
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
+  - path: Library\PlayerDataCache\Android\Data\boot.config
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\PlayerDataCache\Android\Data\boot.config
+    projectPath: Library\PlayerDataCache\Android\Data\boot.config
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Android\Data\c41005c129ba4d66911b75229fd70b45
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\PlayerDataCache\Android\Data\c41005c129ba4d66911b75229fd70b45
+    projectPath: Library\PlayerDataCache\Android\Data\c41005c129ba4d66911b75229fd70b45
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Android\Data\f952c082cb03451daed3ee968ac6c63e
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\PlayerDataCache\Android\Data\f952c082cb03451daed3ee968ac6c63e
+    projectPath: Library\PlayerDataCache\Android\Data\f952c082cb03451daed3ee968ac6c63e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Android\Data\globalgamemanagers
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\PlayerDataCache\Android\Data\globalgamemanagers
+    projectPath: Library\PlayerDataCache\Android\Data\globalgamemanagers
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Android\Data\globalgamemanagers.assets
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\PlayerDataCache\Android\Data\globalgamemanagers.assets
+    projectPath: Library\PlayerDataCache\Android\Data\globalgamemanagers.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Android\Data\level0
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\PlayerDataCache\Android\Data\level0
+    projectPath: Library\PlayerDataCache\Android\Data\level0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Android\Data\Managed\Assembly-CSharp.dll
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\PlayerDataCache\Android\Data\Managed\Assembly-CSharp.dll
+    projectPath: Library\PlayerDataCache\Android\Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Android\Data\Managed\Unity.TextMeshPro.dll
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\PlayerDataCache\Android\Data\Managed\Unity.TextMeshPro.dll
+    projectPath: Library\PlayerDataCache\Android\Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Android\Data\Managed\Unity.Timeline.dll
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\PlayerDataCache\Android\Data\Managed\Unity.Timeline.dll
+    projectPath: Library\PlayerDataCache\Android\Data\Managed\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Android\Data\Managed\UnityEngine.UI.dll
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\PlayerDataCache\Android\Data\Managed\UnityEngine.UI.dll
+    projectPath: Library\PlayerDataCache\Android\Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Android\Data\Resources\unity_builtin_extra
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\PlayerDataCache\Android\Data\Resources\unity_builtin_extra
+    projectPath: Library\PlayerDataCache\Android\Data\Resources\unity_builtin_extra
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Android\Data\sharedassets0.assets
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\PlayerDataCache\Android\Data\sharedassets0.assets
+    projectPath: Library\PlayerDataCache\Android\Data\sharedassets0.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Android\ScriptsOnlyCache.yaml
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\PlayerDataCache\Android\ScriptsOnlyCache.yaml
+    projectPath: Library\PlayerDataCache\Android\ScriptsOnlyCache.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -136,21 +214,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Assembly-CSharp.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
     fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -160,33 +226,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
     fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.Rider.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -202,18 +250,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.dll
     fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.Timeline.dll
     projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
@@ -226,27 +262,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.Timeline.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -256,21 +274,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.UI.dll
     fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEditor.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEditor.UI.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -280,33 +286,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.UI.dll
     fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEngine.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEngine.UI.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\ShaderCache\EditorEncounteredVariants
     fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -322,6 +310,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\StateCache\Hierarchy\9a322d-mainStage.json
     fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\StateCache\Hierarchy\9a322d-mainStage.json
     projectPath: Library\StateCache\Hierarchy\9a322d-mainStage.json
@@ -331,6 +325,12 @@ MonoBehaviour:
   - path: Library\StateCache\SceneView\c4eaf7-mainStage.json
     fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\StateCache\SceneView\c4eaf7-mainStage.json
     projectPath: Library\StateCache\SceneView\c4eaf7-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

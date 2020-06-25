@@ -14,13 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Topos/ToposMultiplayer.unity
     guid: 22afcf0448ed89e4db8e729eed5feafd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Dardos/DardosMultiplayer.unity
     guid: 835e4f77a8ec5494e8a48549dd542638
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/BeerPong/BeerPongMultiplayer.unity
     guid: 7a354453189bfdf48b8e3ed7c8b88dd9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Peces/PecesMultiplayer.unity
     guid: 87a866f9efb90ef45bd0a19592fe4073
   m_configObjects: {}
