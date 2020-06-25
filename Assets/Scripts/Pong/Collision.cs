@@ -5,7 +5,10 @@ using UnityEngine;
 public class Collision : MonoBehaviour
 {
     public GameObject vaso;
-    public int score = 1;
+    public int score1 = 1;
+    public int score2 = 1;
+    public string jugador1 = "1";
+    public string jugador2 = "2";
 
     // Start is called before the first frame update
     void Start()
@@ -21,21 +24,24 @@ public class Collision : MonoBehaviour
 
     void OnTriggerEnter(Collider collider)
     {
-        if(collider.gameObject.tag == "Ball")
+        if(collider.gameObject.CompareTag("Ball"))
         {
-            print("ya");
-            gameObject.SetActive(false);
-            vaso.SetActive(false);
-            Destroy(collider.gameObject); //Bola
-            //Destroy(vaso); //Vaso
-            //Destroy(gameObject); //Cubo
-            PongScore.AddPongScore(score);
-        }
+            gameObject.transform.parent.gameObject.SetActive(false);
+            if(gameObject.transform.parent.gameObject.tag == "VasoA")
+            {
+                PongScore.AddPongScore(score1, jugador1);
+                Debug.Log("Punto jugador 1");
+            }
+            else if(gameObject.transform.parent.gameObject.tag == "VasoB")
+            {
+                PongScore.AddPongScore(score2, jugador2);
+                Debug.Log("Punto jugador 2");
+            }
 
-        if(PongScore.ReadScore() == 2)
-        {
-            gameObject.SetActive(true);
-            vaso.SetActive(true);
+           Destroy(collider.gameObject); //Bola
+           // Destroy(vaso); //Vaso
+           // Destroy(gameObject); //Cubo
+           // PongScore.AddPongScore(score);
         }
     }
 }
