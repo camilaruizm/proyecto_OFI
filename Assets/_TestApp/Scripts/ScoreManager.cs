@@ -1,13 +1,34 @@
 ﻿using Photon.Pun;
+using UnityEngine;
 
-public class ScoreManager : PhotonSingleton<ScoreManager>
+public class ScoreManager : MonoBehaviourPunCallbacks
 {
-    // (Optional) Prevent non-singleton constructor use.
     private PhotonView myPhotonView;
-    protected ScoreManager() { }
 
     private int[] puntajeRondaJugador = null;
     private int[] rondasGanadas = null;
+
+    #region SINGLETON PATTERN
+    public static ScoreManager _instance;
+    public static ScoreManager Instance
+    {
+        get
+        {
+            if (_instance == null)
+            {
+                _instance = FindObjectOfType<ScoreManager>();
+
+                if (_instance == null)
+                {
+                    GameObject container = new GameObject("ScoreManager");
+                    _instance = container.AddComponent<ScoreManager>();
+                }
+            }
+
+            return _instance;
+        }
+    }
+    #endregion
 
     private void Start()
     {
@@ -24,6 +45,11 @@ public class ScoreManager : PhotonSingleton<ScoreManager>
     {
         puntajeRondaJugador[player] += score;
         UITurnManager.Instance.ChangeScore(player, puntajeRondaJugador[player]);
+    }
+
+    public int[] GetPlayerScoreList()
+    {
+        return puntajeRondaJugador;
     }
 
     public void SetPlayerNumber(int playerNumber)

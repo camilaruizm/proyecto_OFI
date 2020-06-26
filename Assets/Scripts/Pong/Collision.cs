@@ -1,41 +1,37 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Photon.Pun;
 
 public class Collision : MonoBehaviour
 {
-    public GameObject vaso;
-    public int score = 1;
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
+    public int scorePoints = 1;
     void OnTriggerEnter(Collider collider)
     {
-        if(collider.gameObject.tag == "Ball")
+        if (collider.gameObject.CompareTag("Ball"))
         {
-            print("ya");
-            gameObject.SetActive(false);
-            vaso.SetActive(false);
-            Destroy(collider.gameObject); //Bola
-            //Destroy(vaso); //Vaso
-            //Destroy(gameObject); //Cubo
-            PongScore.AddPongScore(score);
+            if (collider.gameObject.GetComponent<PhotonView>().IsMine)
+            {
+                GetComponent<PhotonView>().RPC("Touched", RpcTarget.All);
+                if (gameObject.transform.parent.gameObject.tag == "VasoA")
+                {
+                    ScoreManager.Instance.GiveScore(1, scorePoints);
+                    Debug.Log("Punto jugador 2");
+                }
+                else if (gameObject.transform.parent.gameObject.tag == "VasoB")
+                {
+                    ScoreManager.Instance.GiveScore(0, scorePoints);
+                    Debug.Log("Punto jugador 1");
+                }
+                BeerGameLogic.Instance.TerminarTurno();
+                PhotonNetwork.Destroy(collider.gameObject);
+            }
         }
+    }
 
-        if(PongScore.ReadScore() == 2)
-        {
-            gameObject.SetActive(true);
-            vaso.SetActive(true);
-        }
+    [PunRPC]
+    private void Touched()
+    {
+        gameObject.transform.parent.gameObject.SetActive(false);
     }
 }

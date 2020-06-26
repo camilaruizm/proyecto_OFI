@@ -4,25 +4,50 @@ using UnityEngine;
 
 public class PongScore : MonoBehaviour
 {
-    public static int score;
-    
-    public static void AddPongScore(int cantidad)
-    {
-        score += cantidad;
-        Debug.Log("Score: " + score);
+    public static int score1;
+    public static int score2;
 
-        if(score == 3)
+    public static void AddPongScore(int cantidad, string jugador)
+    {
+        if(jugador == "1")
         {
-            UIPong.instance.Win();
-        }
-        else
+            score1 += cantidad;
+            Debug.Log("Score J1: " + score1);
+
+            if (score1 == 7)
+            {
+                UIPong.instance.Win();
+            }
+            else
+            {
+                UIPong.instance.UpdateUI();
+            }
+        } else if(jugador == "2")
         {
-            UIPong.instance.UpdateUI();
+            score2 += cantidad;
+            Debug.Log("Score J2: " + score2);
+
+            if (score2 == 7)
+            {
+                UIPong.instance.Win();
+            }
+            else
+            {
+                UIPong.instance.UpdateUI();
+            }
         }
+        
+
+        
     }
     
-    public static int ReadScore()
+    public static int ReadScore1()
     {
-        return score;
+        return score1;
+    }
+
+    public static int ReadScore2()
+    {
+        return score1;
     }
 }

@@ -5,6 +5,8 @@ using UnityEngine.Events;
 public class GameLogic : PhotonSingleton<GameLogic>
 {
     private PhotonView myPhotonView;
+    protected GameLogic() { } // Protect the constructor!
+
     [SerializeField] private Transform myPlayer = null;
     public Transform lugarDeEspera = null;
     public Transform lugarDeJuego = null;
@@ -24,6 +26,11 @@ public class GameLogic : PhotonSingleton<GameLogic>
     [SerializeField] private UnityEvent terminaRondaJugador = new UnityEvent();
     [SerializeField] private UnityEvent pantallaResumen = new UnityEvent();
     [SerializeField] private UnityEvent endGameEvent = new UnityEvent();
+
+    private void Awake()
+    {
+        
+    }
 
     private void Start()
     {

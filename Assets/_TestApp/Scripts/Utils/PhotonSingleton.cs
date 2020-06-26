@@ -15,6 +15,15 @@ public class PhotonSingleton<T> : MonoBehaviourPunCallbacks where T : MonoBehavi
     /// <summary>
     /// Access singleton instance through this propriety.
     /// </summary>
+    /// 
+    protected void Awake()
+    {
+        if (m_Instance == null)
+            m_Instance = this as T;
+        else if (m_Instance != this)
+            Destroy(gameObject);
+    }
+
     public static T Instance
     {
         get

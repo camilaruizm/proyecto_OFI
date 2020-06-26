@@ -20,6 +20,6 @@ public class UIPong : MonoBehaviour
 
     public void UpdateUI()
     {
-        scoreText.text = "Puntaje: " + PongScore.ReadScore();
+        scoreText.text = "Puntaje: " + PongScore.ReadScore1();
     }
 }
