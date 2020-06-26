@@ -13,1326 +13,1604 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-06-26T00:02:03.177-05:00
-  initializedAtString: 2020-06-25T23:29:52.291-05:00
+  lastUpdatedAtString: 2020-06-26T02:26:45.097-05:00
+  initializedAtString: 2020-06-26T02:07:54.105-05:00
   entries:
-  - path: Assembly-CSharp.csproj
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
+  - path: Assets\AppResources\Dardos.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\AppResources\Dardos.meta
+    projectPath: Assets\AppResources\Dardos.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assembly-CSharp-Editor.csproj
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assembly-CSharp-Editor.csproj
-    projectPath: Assembly-CSharp-Editor.csproj
+  - path: Assets\AppResources\Dardos\Animaciones.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\AppResources\Dardos\Animaciones.meta
+    projectPath: Assets\AppResources\Dardos\Animaciones.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+  - path: Assets\AppResources\Dardos\Entorno.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\AppResources\Dardos\Entorno.meta
+    projectPath: Assets\AppResources\Dardos\Entorno.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Resources\PhotonPrefabs\PhotonPlayer.prefab
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Resources\PhotonPrefabs\PhotonPlayer.prefab
-    projectPath: Assets\Resources\PhotonPrefabs\PhotonPlayer.prefab
+  - path: Assets\AppResources\Dardos\Modelos.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\AppResources\Dardos\Modelos.meta
+    projectPath: Assets\AppResources\Dardos\Modelos.meta
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scenes\GUI.meta
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scenes\GUI.meta
-    projectPath: Assets\Scenes\GUI.meta
+  - path: Assets\AppResources\Dardos\Modelos\Materiales.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\AppResources\Dardos\Modelos\Materiales.meta
+    projectPath: Assets\AppResources\Dardos\Modelos\Materiales.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\AppResources\Dardos\Modelos\Texturas.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\AppResources\Dardos\Modelos\Texturas.meta
+    projectPath: Assets\AppResources\Dardos\Modelos\Texturas.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\AppResources\Dardos\Modelos\Texturas\Arco.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\AppResources\Dardos\Modelos\Texturas\Arco.meta
+    projectPath: Assets\AppResources\Dardos\Modelos\Texturas\Arco.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\AppResources\Dardos\Modelos\Texturas\Diana.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\AppResources\Dardos\Modelos\Texturas\Diana.meta
+    projectPath: Assets\AppResources\Dardos\Modelos\Texturas\Diana.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\AppResources\Dardos\Modelos\Texturas\Flecha.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\AppResources\Dardos\Modelos\Texturas\Flecha.meta
+    projectPath: Assets\AppResources\Dardos\Modelos\Texturas\Flecha.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\AppResources\Dardos\Modelos\Texturas\Flecha\Palo.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\AppResources\Dardos\Modelos\Texturas\Flecha\Palo.meta
+    projectPath: Assets\AppResources\Dardos\Modelos\Texturas\Flecha\Palo.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\AppResources\Dardos\Modelos\Texturas\Flecha\Plumas.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\AppResources\Dardos\Modelos\Texturas\Flecha\Plumas.meta
+    projectPath: Assets\AppResources\Dardos\Modelos\Texturas\Flecha\Plumas.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\AppResources\Dardos\Modelos\Texturas\Flecha\Punta.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\AppResources\Dardos\Modelos\Texturas\Flecha\Punta.meta
+    projectPath: Assets\AppResources\Dardos\Modelos\Texturas\Flecha\Punta.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\AppResources\Dardos\Prefab.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\AppResources\Dardos\Prefab.meta
+    projectPath: Assets\AppResources\Dardos\Prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\AppResources\Dardos\Resources.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\AppResources\Dardos\Resources.meta
+    projectPath: Assets\AppResources\Dardos\Resources.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\AppResources\Dardos\Scripts.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\AppResources\Dardos\Scripts.meta
+    projectPath: Assets\AppResources\Dardos\Scripts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\AppResources\Dardos\Sonidos.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\AppResources\Dardos\Sonidos.meta
+    projectPath: Assets\AppResources\Dardos\Sonidos.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\AppResources\Dardos\UI.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\AppResources\Dardos\UI.meta
+    projectPath: Assets\AppResources\Dardos\UI.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\MagicPhishing\MagicPhishingVR 1.unity.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\MagicPhishing\MagicPhishingVR
+      1.unity.meta
+    projectPath: Assets\MagicPhishing\MagicPhishingVR 1.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Dardos\DardosMultiplayer.unity
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scenes\Dardos\DardosMultiplayer.unity
+    projectPath: Assets\Scenes\Dardos\DardosMultiplayer.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Assets\Scenes\UI\Lobby.unity
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Assets\Scenes\UI\Lobby.unity
-    projectPath: Assets\Scenes\UI\Lobby.unity
+  - path: Assets\Scenes\Dardos\DardosMultiplayer.unity.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scenes\Dardos\DardosMultiplayer.unity.meta
+    projectPath: Assets\Scenes\Dardos\DardosMultiplayer.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scenes\Dardos\Inicio.unity
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scenes\Dardos\Inicio.unity
+    projectPath: Assets\Scenes\Dardos\Inicio.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Assets\Scenes\Dardos\Instrucciones.unity
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scenes\Dardos\Instrucciones.unity
+    projectPath: Assets\Scenes\Dardos\Instrucciones.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Dardos\Nivel 2.unity
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scenes\Dardos\Nivel
+      2.unity
+    projectPath: Assets\Scenes\Dardos\Nivel 2.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Apuntar.cs
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Apuntar.cs
+    projectPath: Assets\Scripts\Apuntar.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Apuntar.cs.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Apuntar.cs.meta
+    projectPath: Assets\Scripts\Apuntar.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Dardos.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Dardos.meta
+    projectPath: Assets\Scripts\Dardos.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Dardos\Apuntar.cs
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Dardos\Apuntar.cs
+    projectPath: Assets\Scripts\Dardos\Apuntar.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Dardos\Apuntar.cs.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Dardos\Apuntar.cs.meta
+    projectPath: Assets\Scripts\Dardos\Apuntar.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Dardos\Flecha.cs
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Dardos\Flecha.cs
+    projectPath: Assets\Scripts\Dardos\Flecha.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Dardos\Flecha.cs.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Dardos\Flecha.cs.meta
+    projectPath: Assets\Scripts\Dardos\Flecha.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Dardos\Inicio.cs
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Dardos\Inicio.cs
+    projectPath: Assets\Scripts\Dardos\Inicio.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Dardos\Inicio.cs.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Dardos\Inicio.cs.meta
+    projectPath: Assets\Scripts\Dardos\Inicio.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Dardos\InicioSonido.cs
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Dardos\InicioSonido.cs
+    projectPath: Assets\Scripts\Dardos\InicioSonido.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Dardos\InicioSonido.cs.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Dardos\InicioSonido.cs.meta
+    projectPath: Assets\Scripts\Dardos\InicioSonido.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Dardos\MoverDiana.cs
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Dardos\MoverDiana.cs
+    projectPath: Assets\Scripts\Dardos\MoverDiana.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Dardos\MoverDiana.cs.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Dardos\MoverDiana.cs.meta
+    projectPath: Assets\Scripts\Dardos\MoverDiana.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Dardos\PegarFlecha.cs
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Dardos\PegarFlecha.cs
+    projectPath: Assets\Scripts\Dardos\PegarFlecha.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Dardos\PegarFlecha.cs.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Dardos\PegarFlecha.cs.meta
+    projectPath: Assets\Scripts\Dardos\PegarFlecha.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Dardos\RotarCorona.cs
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Dardos\RotarCorona.cs
+    projectPath: Assets\Scripts\Dardos\RotarCorona.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Dardos\RotarCorona.cs.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Dardos\RotarCorona.cs.meta
+    projectPath: Assets\Scripts\Dardos\RotarCorona.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Dardos\RotarDiana.cs
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Dardos\RotarDiana.cs
+    projectPath: Assets\Scripts\Dardos\RotarDiana.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Dardos\RotarDiana.cs.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Dardos\RotarDiana.cs.meta
+    projectPath: Assets\Scripts\Dardos\RotarDiana.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Flecha.cs
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Flecha.cs
+    projectPath: Assets\Scripts\Flecha.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Flecha.cs.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Flecha.cs.meta
+    projectPath: Assets\Scripts\Flecha.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Inicio.cs
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Inicio.cs
+    projectPath: Assets\Scripts\Inicio.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Inicio.cs.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\Inicio.cs.meta
+    projectPath: Assets\Scripts\Inicio.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\InicioSonido.cs
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\InicioSonido.cs
+    projectPath: Assets\Scripts\InicioSonido.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\InicioSonido.cs.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\InicioSonido.cs.meta
+    projectPath: Assets\Scripts\InicioSonido.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\MoverDiana.cs
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\MoverDiana.cs
+    projectPath: Assets\Scripts\MoverDiana.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\MoverDiana.cs.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\MoverDiana.cs.meta
+    projectPath: Assets\Scripts\MoverDiana.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\PegarFlecha.cs
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\PegarFlecha.cs
+    projectPath: Assets\Scripts\PegarFlecha.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\PegarFlecha.cs.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\PegarFlecha.cs.meta
+    projectPath: Assets\Scripts\PegarFlecha.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\RotarCorona.cs
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\RotarCorona.cs
+    projectPath: Assets\Scripts\RotarCorona.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\RotarCorona.cs.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\RotarCorona.cs.meta
+    projectPath: Assets\Scripts\RotarCorona.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\RotarDiana.cs
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\RotarDiana.cs
+    projectPath: Assets\Scripts\RotarDiana.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\RotarDiana.cs.meta
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Assets\Scripts\RotarDiana.cs.meta
+    projectPath: Assets\Scripts\RotarDiana.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\assetDatabase3
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\assetDatabase3
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\gituser.yaml
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\gfu\cache\gituser.yaml
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\gfu\cache\gituser.yaml
     projectPath: Library\gfu\cache\gituser.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\metadata\00\00f93e3df109d4a69834d44deb072725
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\00\00f93e3df109d4a69834d44deb072725
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\00\00f93e3df109d4a69834d44deb072725
     projectPath: Library\metadata\00\00f93e3df109d4a69834d44deb072725
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
     projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\02\02b299a09f800499f93a260fc5647d38
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\02\02b299a09f800499f93a260fc5647d38
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\02\02b299a09f800499f93a260fc5647d38
     projectPath: Library\metadata\02\02b299a09f800499f93a260fc5647d38
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\05\05d7d64713447433b86cb9a4e3d48560
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\05\05d7d64713447433b86cb9a4e3d48560
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\05\05d7d64713447433b86cb9a4e3d48560
     projectPath: Library\metadata\05\05d7d64713447433b86cb9a4e3d48560
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\06\06aa46b8e43675d43b204c3638e59767
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\06\06aa46b8e43675d43b204c3638e59767
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\06\06aa46b8e43675d43b204c3638e59767
     projectPath: Library\metadata\06\06aa46b8e43675d43b204c3638e59767
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\0c\0ca644865f5f4479fb50471605078cf0
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\0c\0ca644865f5f4479fb50471605078cf0
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\0c\0ca644865f5f4479fb50471605078cf0
     projectPath: Library\metadata\0c\0ca644865f5f4479fb50471605078cf0
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\0c\0cc7f51d6c6b140f79f7afded8b84284
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\0c\0cc7f51d6c6b140f79f7afded8b84284
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\0c\0cc7f51d6c6b140f79f7afded8b84284
     projectPath: Library\metadata\0c\0cc7f51d6c6b140f79f7afded8b84284
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\0f\0f791be37caef48c79f72011276ab16a
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\0f\0f791be37caef48c79f72011276ab16a
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\0f\0f791be37caef48c79f72011276ab16a
     projectPath: Library\metadata\0f\0f791be37caef48c79f72011276ab16a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\11\114ed7f3f1d114a2988b1f93a233b40e
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\11\114ed7f3f1d114a2988b1f93a233b40e
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\11\114ed7f3f1d114a2988b1f93a233b40e
     projectPath: Library\metadata\11\114ed7f3f1d114a2988b1f93a233b40e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\11\118ed627eb676472d803284d1a988bbd
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\11\118ed627eb676472d803284d1a988bbd
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\11\118ed627eb676472d803284d1a988bbd
     projectPath: Library\metadata\11\118ed627eb676472d803284d1a988bbd
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\11\11ce60bdf78924133940a4a64555e784
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\11\11ce60bdf78924133940a4a64555e784
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\11\11ce60bdf78924133940a4a64555e784
     projectPath: Library\metadata\11\11ce60bdf78924133940a4a64555e784
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\12\127c2783105b84d52adbb2499339f572
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\12\127c2783105b84d52adbb2499339f572
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\12\127c2783105b84d52adbb2499339f572
     projectPath: Library\metadata\12\127c2783105b84d52adbb2499339f572
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\12\128e448f226e2478dbd01209ac6b5237
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\12\128e448f226e2478dbd01209ac6b5237
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\12\128e448f226e2478dbd01209ac6b5237
     projectPath: Library\metadata\12\128e448f226e2478dbd01209ac6b5237
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\12\128e987d567d4e2c824d754223b3f3b0
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\12\128e987d567d4e2c824d754223b3f3b0
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\12\128e987d567d4e2c824d754223b3f3b0
     projectPath: Library\metadata\12\128e987d567d4e2c824d754223b3f3b0
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\12\12a8088f6fe474f31bffbd957940f5fe
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\12\12a8088f6fe474f31bffbd957940f5fe
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\12\12a8088f6fe474f31bffbd957940f5fe
     projectPath: Library\metadata\12\12a8088f6fe474f31bffbd957940f5fe
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\12\12bd1ba026e3d49a285ef666388aa4e9
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\12\12bd1ba026e3d49a285ef666388aa4e9
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\12\12bd1ba026e3d49a285ef666388aa4e9
     projectPath: Library\metadata\12\12bd1ba026e3d49a285ef666388aa4e9
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\13\136dc24f151211d438acee17aff4e934
     projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\17\171f0a30d9ead4516a8fa319cfebe270
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\17\171f0a30d9ead4516a8fa319cfebe270
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\17\171f0a30d9ead4516a8fa319cfebe270
     projectPath: Library\metadata\17\171f0a30d9ead4516a8fa319cfebe270
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\17\17819b7cdd6cd4bed942d6bac1692381
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\17\17819b7cdd6cd4bed942d6bac1692381
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\17\17819b7cdd6cd4bed942d6bac1692381
     projectPath: Library\metadata\17\17819b7cdd6cd4bed942d6bac1692381
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\18\18af28ada71f0864b8fd3821a7fd8e85
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\18\18af28ada71f0864b8fd3821a7fd8e85
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\18\18af28ada71f0864b8fd3821a7fd8e85
     projectPath: Library\metadata\18\18af28ada71f0864b8fd3821a7fd8e85
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\19\19a9f6c7cb74d44bd9bbc87397789f7c
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\19\19a9f6c7cb74d44bd9bbc87397789f7c
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\19\19a9f6c7cb74d44bd9bbc87397789f7c
     projectPath: Library\metadata\19\19a9f6c7cb74d44bd9bbc87397789f7c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\1a\1a6b456eb0cd540a489e0f82c377b187
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\1a\1a6b456eb0cd540a489e0f82c377b187
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\1a\1a6b456eb0cd540a489e0f82c377b187
     projectPath: Library\metadata\1a\1a6b456eb0cd540a489e0f82c377b187
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\1a\1a8761daaa87949d9bfee83827f1cf81
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\1a\1a8761daaa87949d9bfee83827f1cf81
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\1a\1a8761daaa87949d9bfee83827f1cf81
     projectPath: Library\metadata\1a\1a8761daaa87949d9bfee83827f1cf81
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\1b\1b78ffabb50d1e94ca164106f5444e34
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\1b\1b78ffabb50d1e94ca164106f5444e34
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\1b\1b78ffabb50d1e94ca164106f5444e34
     projectPath: Library\metadata\1b\1b78ffabb50d1e94ca164106f5444e34
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\1b\1bec9ea3efe7849ffae666549aca3cad
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\1b\1bec9ea3efe7849ffae666549aca3cad
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\1b\1bec9ea3efe7849ffae666549aca3cad
     projectPath: Library\metadata\1b\1bec9ea3efe7849ffae666549aca3cad
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\1c\1ca78f1700d24467da98b9a732966abd
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\1c\1ca78f1700d24467da98b9a732966abd
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\1c\1ca78f1700d24467da98b9a732966abd
     projectPath: Library\metadata\1c\1ca78f1700d24467da98b9a732966abd
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\1d\1d5f98cfdb173ab4db83e5e352f4157d
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\1d\1d5f98cfdb173ab4db83e5e352f4157d
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\1d\1d5f98cfdb173ab4db83e5e352f4157d
     projectPath: Library\metadata\1d\1d5f98cfdb173ab4db83e5e352f4157d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\1d\1d94b17868379452aad02b04eb7b0e6e
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\1d\1d94b17868379452aad02b04eb7b0e6e
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\1d\1d94b17868379452aad02b04eb7b0e6e
     projectPath: Library\metadata\1d\1d94b17868379452aad02b04eb7b0e6e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\1e\1e3b057af24249748ff873be7fafee47
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\1e\1e3b057af24249748ff873be7fafee47
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\1e\1e3b057af24249748ff873be7fafee47
     projectPath: Library\metadata\1e\1e3b057af24249748ff873be7fafee47
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\1f\1f16e78d5a8cbe946b9dbaad22815581
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\1f\1f16e78d5a8cbe946b9dbaad22815581
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\1f\1f16e78d5a8cbe946b9dbaad22815581
     projectPath: Library\metadata\1f\1f16e78d5a8cbe946b9dbaad22815581
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\20\2057fd0fa21f34bc2ba2dd2a4a2a38b5
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\20\2057fd0fa21f34bc2ba2dd2a4a2a38b5
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\20\2057fd0fa21f34bc2ba2dd2a4a2a38b5
     projectPath: Library\metadata\20\2057fd0fa21f34bc2ba2dd2a4a2a38b5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\23\23485e28fa60c463f8235998a0e76e6a
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\23\23485e28fa60c463f8235998a0e76e6a
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\23\23485e28fa60c463f8235998a0e76e6a
     projectPath: Library\metadata\23\23485e28fa60c463f8235998a0e76e6a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\23\23744ffc3b678488e858089d1a2973d9
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\23\23744ffc3b678488e858089d1a2973d9
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\23\23744ffc3b678488e858089d1a2973d9
     projectPath: Library\metadata\23\23744ffc3b678488e858089d1a2973d9
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\24\24623b77a61c743eaa47d0bc1b6a818f
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\24\24623b77a61c743eaa47d0bc1b6a818f
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\24\24623b77a61c743eaa47d0bc1b6a818f
     projectPath: Library\metadata\24\24623b77a61c743eaa47d0bc1b6a818f
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\25\25d360aef03fb4c7ba94b2ee40251a24
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\25\25d360aef03fb4c7ba94b2ee40251a24
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\25\25d360aef03fb4c7ba94b2ee40251a24
     projectPath: Library\metadata\25\25d360aef03fb4c7ba94b2ee40251a24
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\2a\2a443597ee157fe49a30c4310f1fb2eb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\2a\2a443597ee157fe49a30c4310f1fb2eb
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\2a\2a443597ee157fe49a30c4310f1fb2eb
     projectPath: Library\metadata\2a\2a443597ee157fe49a30c4310f1fb2eb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\2a\2a4fdc21aee934d82baa564e797da921
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\2a\2a4fdc21aee934d82baa564e797da921
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\2a\2a4fdc21aee934d82baa564e797da921
     projectPath: Library\metadata\2a\2a4fdc21aee934d82baa564e797da921
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\2b\2b0edb9779e904e3998b1b65bcc8d6d6
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\2b\2b0edb9779e904e3998b1b65bcc8d6d6
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\2b\2b0edb9779e904e3998b1b65bcc8d6d6
     projectPath: Library\metadata\2b\2b0edb9779e904e3998b1b65bcc8d6d6
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\metadata\2e\2e498d1c8094910479dc3e1b768306a4.info
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\2e\2e498d1c8094910479dc3e1b768306a4.info
+    projectPath: Library\metadata\2e\2e498d1c8094910479dc3e1b768306a4.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\metadata\2e\2e71f5afb881f443bbce909fe451d8fe
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\2e\2e71f5afb881f443bbce909fe451d8fe
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\2e\2e71f5afb881f443bbce909fe451d8fe
     projectPath: Library\metadata\2e\2e71f5afb881f443bbce909fe451d8fe
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\31\311793381eb9d45149dc1a422000a9fd
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\31\311793381eb9d45149dc1a422000a9fd
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\31\311793381eb9d45149dc1a422000a9fd
     projectPath: Library\metadata\31\311793381eb9d45149dc1a422000a9fd
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\32\32b6801e15389450c8d629370a9fff54
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\32\32b6801e15389450c8d629370a9fff54
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\32\32b6801e15389450c8d629370a9fff54
     projectPath: Library\metadata\32\32b6801e15389450c8d629370a9fff54
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\35\3590c93395a39449ca11509317375cea
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\35\3590c93395a39449ca11509317375cea
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\35\3590c93395a39449ca11509317375cea
     projectPath: Library\metadata\35\3590c93395a39449ca11509317375cea
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\36\36d276bd7b313441fbe34aadce7598ca
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\36\36d276bd7b313441fbe34aadce7598ca
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\36\36d276bd7b313441fbe34aadce7598ca
     projectPath: Library\metadata\36\36d276bd7b313441fbe34aadce7598ca
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\37\3725fb9950d834c28b8c8263c8c45969
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\37\3725fb9950d834c28b8c8263c8c45969
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\37\3725fb9950d834c28b8c8263c8c45969
     projectPath: Library\metadata\37\3725fb9950d834c28b8c8263c8c45969
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\37\376a69755f4024896aac10f1916f8182
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\37\376a69755f4024896aac10f1916f8182
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\37\376a69755f4024896aac10f1916f8182
     projectPath: Library\metadata\37\376a69755f4024896aac10f1916f8182
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\3a\3ad1f53be83054af3bf2009537097ffe
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\3a\3ad1f53be83054af3bf2009537097ffe
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\3a\3ad1f53be83054af3bf2009537097ffe
     projectPath: Library\metadata\3a\3ad1f53be83054af3bf2009537097ffe
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\3b\3bb8269934bb74dbfa736cced96c7dfe
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\3b\3bb8269934bb74dbfa736cced96c7dfe
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\3b\3bb8269934bb74dbfa736cced96c7dfe
     projectPath: Library\metadata\3b\3bb8269934bb74dbfa736cced96c7dfe
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\3c\3c88f74ab5b2a4da485361f0518f33d1
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\3c\3c88f74ab5b2a4da485361f0518f33d1
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\3c\3c88f74ab5b2a4da485361f0518f33d1
     projectPath: Library\metadata\3c\3c88f74ab5b2a4da485361f0518f33d1
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\3e\3e968996b071c460f9b80785694ce6c4
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\3e\3e968996b071c460f9b80785694ce6c4
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\3e\3e968996b071c460f9b80785694ce6c4
     projectPath: Library\metadata\3e\3e968996b071c460f9b80785694ce6c4
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\41\410d5a91205334dda9fd1bf3d325809a
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\41\410d5a91205334dda9fd1bf3d325809a
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\41\410d5a91205334dda9fd1bf3d325809a
     projectPath: Library\metadata\41\410d5a91205334dda9fd1bf3d325809a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\41\41251d5f89d5546bb9d8ba907686b71f
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\41\41251d5f89d5546bb9d8ba907686b71f
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\41\41251d5f89d5546bb9d8ba907686b71f
     projectPath: Library\metadata\41\41251d5f89d5546bb9d8ba907686b71f
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\41\41679d3338266415f88d226e6bf3d0be
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\41\41679d3338266415f88d226e6bf3d0be
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\41\41679d3338266415f88d226e6bf3d0be
     projectPath: Library\metadata\41\41679d3338266415f88d226e6bf3d0be
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\41\41c83891d500f43ca90ce70315712c84
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\41\41c83891d500f43ca90ce70315712c84
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\41\41c83891d500f43ca90ce70315712c84
     projectPath: Library\metadata\41\41c83891d500f43ca90ce70315712c84
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\43\43cd0765b09374af19eb4d7acbea02ba
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\43\43cd0765b09374af19eb4d7acbea02ba
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\43\43cd0765b09374af19eb4d7acbea02ba
     projectPath: Library\metadata\43\43cd0765b09374af19eb4d7acbea02ba
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\44\443ac8a88999d4e3b867c0a24f2674eb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\44\443ac8a88999d4e3b867c0a24f2674eb
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\44\443ac8a88999d4e3b867c0a24f2674eb
     projectPath: Library\metadata\44\443ac8a88999d4e3b867c0a24f2674eb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\47\4768e786f437540fd9f7d0c0d5778312
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\47\4768e786f437540fd9f7d0c0d5778312
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\47\4768e786f437540fd9f7d0c0d5778312
     projectPath: Library\metadata\47\4768e786f437540fd9f7d0c0d5778312
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\47\479dd5a30665142c393a0670483e4e97
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\47\479dd5a30665142c393a0670483e4e97
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\47\479dd5a30665142c393a0670483e4e97
     projectPath: Library\metadata\47\479dd5a30665142c393a0670483e4e97
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\48\48bb5f55d8670e349b6e614913f9d910
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\48\48bb5f55d8670e349b6e614913f9d910
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\48\48bb5f55d8670e349b6e614913f9d910
     projectPath: Library\metadata\48\48bb5f55d8670e349b6e614913f9d910
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\48\48f7ce7c2a1174ffdac9ebd5815bfa13
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\48\48f7ce7c2a1174ffdac9ebd5815bfa13
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\48\48f7ce7c2a1174ffdac9ebd5815bfa13
     projectPath: Library\metadata\48\48f7ce7c2a1174ffdac9ebd5815bfa13
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\49\494e0fcfce3cb4d1c973863b3ad4e5d0
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\49\494e0fcfce3cb4d1c973863b3ad4e5d0
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\49\494e0fcfce3cb4d1c973863b3ad4e5d0
     projectPath: Library\metadata\49\494e0fcfce3cb4d1c973863b3ad4e5d0
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\4b\4b50a67a5a86e4093bf89c85cbc2c700
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\4b\4b50a67a5a86e4093bf89c85cbc2c700
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\4b\4b50a67a5a86e4093bf89c85cbc2c700
     projectPath: Library\metadata\4b\4b50a67a5a86e4093bf89c85cbc2c700
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\4c\4c75c86da0ae44394be62c13431686c2
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\4c\4c75c86da0ae44394be62c13431686c2
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\4c\4c75c86da0ae44394be62c13431686c2
     projectPath: Library\metadata\4c\4c75c86da0ae44394be62c13431686c2
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\4e\4e8df902e7cb54f57bd1492b46fbe33d
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\4e\4e8df902e7cb54f57bd1492b46fbe33d
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\4e\4e8df902e7cb54f57bd1492b46fbe33d
     projectPath: Library\metadata\4e\4e8df902e7cb54f57bd1492b46fbe33d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\50\509a29025635b4c31bb337addea72a7c
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\50\509a29025635b4c31bb337addea72a7c
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\50\509a29025635b4c31bb337addea72a7c
     projectPath: Library\metadata\50\509a29025635b4c31bb337addea72a7c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\51\51b65678ccdd949e9a58874d2880c0ef
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\51\51b65678ccdd949e9a58874d2880c0ef
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\51\51b65678ccdd949e9a58874d2880c0ef
     projectPath: Library\metadata\51\51b65678ccdd949e9a58874d2880c0ef
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
     projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\57\573e2b04dc4734d68a2b6747421ce0bc
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\57\573e2b04dc4734d68a2b6747421ce0bc
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\57\573e2b04dc4734d68a2b6747421ce0bc
     projectPath: Library\metadata\57\573e2b04dc4734d68a2b6747421ce0bc
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\57\57e34a0b7bd8740c5922ce5840ba3ee8
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\57\57e34a0b7bd8740c5922ce5840ba3ee8
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\57\57e34a0b7bd8740c5922ce5840ba3ee8
     projectPath: Library\metadata\57\57e34a0b7bd8740c5922ce5840ba3ee8
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\5b\5baa0455970b442238015283920cc587
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\5b\5baa0455970b442238015283920cc587
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\5b\5baa0455970b442238015283920cc587
     projectPath: Library\metadata\5b\5baa0455970b442238015283920cc587
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\5d\5d21c263a13154ba69048ad7e9f4a275
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\5d\5d21c263a13154ba69048ad7e9f4a275
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\5d\5d21c263a13154ba69048ad7e9f4a275
     projectPath: Library\metadata\5d\5d21c263a13154ba69048ad7e9f4a275
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\5d\5db1ab7348db34ecbac8c834c5d3425f
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\5d\5db1ab7348db34ecbac8c834c5d3425f
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\5d\5db1ab7348db34ecbac8c834c5d3425f
     projectPath: Library\metadata\5d\5db1ab7348db34ecbac8c834c5d3425f
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\5e\5eb60798954e54a7280c0cd353773edf
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\5e\5eb60798954e54a7280c0cd353773edf
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\5e\5eb60798954e54a7280c0cd353773edf
     projectPath: Library\metadata\5e\5eb60798954e54a7280c0cd353773edf
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\5f\5f3d7e9ca47ce4799ab245e57ac7043f
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\5f\5f3d7e9ca47ce4799ab245e57ac7043f
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\5f\5f3d7e9ca47ce4799ab245e57ac7043f
     projectPath: Library\metadata\5f\5f3d7e9ca47ce4799ab245e57ac7043f
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\60\60f1e4636c2474e55a25e6d4ff372ee7
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\60\60f1e4636c2474e55a25e6d4ff372ee7
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\60\60f1e4636c2474e55a25e6d4ff372ee7
     projectPath: Library\metadata\60\60f1e4636c2474e55a25e6d4ff372ee7
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\63\63dd62cc4cd464485a1cb34634b6380e
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\63\63dd62cc4cd464485a1cb34634b6380e
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\63\63dd62cc4cd464485a1cb34634b6380e
     projectPath: Library\metadata\63\63dd62cc4cd464485a1cb34634b6380e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\66\66fe40e11a2514648906e6825b026b85
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\66\66fe40e11a2514648906e6825b026b85
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\66\66fe40e11a2514648906e6825b026b85
     projectPath: Library\metadata\66\66fe40e11a2514648906e6825b026b85
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\68\68e6db2ebdc24f95958faec2be5558d6
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\68\68e6db2ebdc24f95958faec2be5558d6
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\68\68e6db2ebdc24f95958faec2be5558d6
     projectPath: Library\metadata\68\68e6db2ebdc24f95958faec2be5558d6
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\69\696c86fab86049947bd12e68a9b724cf
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\69\696c86fab86049947bd12e68a9b724cf
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\69\696c86fab86049947bd12e68a9b724cf
     projectPath: Library\metadata\69\696c86fab86049947bd12e68a9b724cf
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\6b\6bf1f92fb4ae24291b71e77c1ccac323
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\6b\6bf1f92fb4ae24291b71e77c1ccac323
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\6b\6bf1f92fb4ae24291b71e77c1ccac323
     projectPath: Library\metadata\6b\6bf1f92fb4ae24291b71e77c1ccac323
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\6e\6e59c59b81ab47f9b6ec5781fa725d2c
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\6e\6e59c59b81ab47f9b6ec5781fa725d2c
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\6e\6e59c59b81ab47f9b6ec5781fa725d2c
     projectPath: Library\metadata\6e\6e59c59b81ab47f9b6ec5781fa725d2c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\70\70f36fab7a81646eeb5c083264db5be0
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\70\70f36fab7a81646eeb5c083264db5be0
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\70\70f36fab7a81646eeb5c083264db5be0
     projectPath: Library\metadata\70\70f36fab7a81646eeb5c083264db5be0
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\73\739800cd36aba44e9b04ce977e5784bd
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\73\739800cd36aba44e9b04ce977e5784bd
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\73\739800cd36aba44e9b04ce977e5784bd
     projectPath: Library\metadata\73\739800cd36aba44e9b04ce977e5784bd
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\75\7528488988f9d48478da328909125dea
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\75\7528488988f9d48478da328909125dea
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\75\7528488988f9d48478da328909125dea
     projectPath: Library\metadata\75\7528488988f9d48478da328909125dea
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\75\75e29b2b7f39fc5489e792b0f3338c79
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\75\75e29b2b7f39fc5489e792b0f3338c79
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\75\75e29b2b7f39fc5489e792b0f3338c79
     projectPath: Library\metadata\75\75e29b2b7f39fc5489e792b0f3338c79
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\76\767c082e8145b436291264365921ef41
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\76\767c082e8145b436291264365921ef41
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\76\767c082e8145b436291264365921ef41
     projectPath: Library\metadata\76\767c082e8145b436291264365921ef41
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\76\76d2b695633884daf905c07095c8a01c
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\76\76d2b695633884daf905c07095c8a01c
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\76\76d2b695633884daf905c07095c8a01c
     projectPath: Library\metadata\76\76d2b695633884daf905c07095c8a01c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\7b\7b912427c85634a3fa13020a8d93c38a
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\7b\7b912427c85634a3fa13020a8d93c38a
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\7b\7b912427c85634a3fa13020a8d93c38a
     projectPath: Library\metadata\7b\7b912427c85634a3fa13020a8d93c38a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\7c\7c52851ea0de74a228fa29a84de008ba
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\7c\7c52851ea0de74a228fa29a84de008ba
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\7c\7c52851ea0de74a228fa29a84de008ba
     projectPath: Library\metadata\7c\7c52851ea0de74a228fa29a84de008ba
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\7d\7dda4bb2d5509e44e978d2bf56e25d7c
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\7d\7dda4bb2d5509e44e978d2bf56e25d7c
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\7d\7dda4bb2d5509e44e978d2bf56e25d7c
     projectPath: Library\metadata\7d\7dda4bb2d5509e44e978d2bf56e25d7c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\82\825c8a439883d4c5eb00f7a498b52cf0
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\82\825c8a439883d4c5eb00f7a498b52cf0
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\82\825c8a439883d4c5eb00f7a498b52cf0
     projectPath: Library\metadata\82\825c8a439883d4c5eb00f7a498b52cf0
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\83\8358cf789a848412fbb10ba05c4f3fce
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\83\8358cf789a848412fbb10ba05c4f3fce
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\83\8358cf789a848412fbb10ba05c4f3fce
     projectPath: Library\metadata\83\8358cf789a848412fbb10ba05c4f3fce
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\85\85187c2149c549c5b33f0cdb02836b17
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\85\85187c2149c549c5b33f0cdb02836b17
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\85\85187c2149c549c5b33f0cdb02836b17
     projectPath: Library\metadata\85\85187c2149c549c5b33f0cdb02836b17
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\8a\8a93ebe04d36b49c388adce4ac442226
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\8a\8a93ebe04d36b49c388adce4ac442226
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\8a\8a93ebe04d36b49c388adce4ac442226
     projectPath: Library\metadata\8a\8a93ebe04d36b49c388adce4ac442226
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\91\9159532a8a3d946aa9df74e771243e5b
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\91\9159532a8a3d946aa9df74e771243e5b
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\91\9159532a8a3d946aa9df74e771243e5b
     projectPath: Library\metadata\91\9159532a8a3d946aa9df74e771243e5b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\92\92fe087984da347418a1018b22a805f9
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\92\92fe087984da347418a1018b22a805f9
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\92\92fe087984da347418a1018b22a805f9
     projectPath: Library\metadata\92\92fe087984da347418a1018b22a805f9
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\93\9387b16b3e4094244adb0bf7dc9ca17a
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\93\9387b16b3e4094244adb0bf7dc9ca17a
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\93\9387b16b3e4094244adb0bf7dc9ca17a
     projectPath: Library\metadata\93\9387b16b3e4094244adb0bf7dc9ca17a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\94\94f5d450d1bd94c97b1dc8109b633ac0
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\94\94f5d450d1bd94c97b1dc8109b633ac0
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\94\94f5d450d1bd94c97b1dc8109b633ac0
     projectPath: Library\metadata\94\94f5d450d1bd94c97b1dc8109b633ac0
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\99\9961197a3979a4fa684159098ac5881f
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\99\9961197a3979a4fa684159098ac5881f
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\99\9961197a3979a4fa684159098ac5881f
     projectPath: Library\metadata\99\9961197a3979a4fa684159098ac5881f
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\9f\9f9210011b71142d5966eec2db6cc696
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\9f\9f9210011b71142d5966eec2db6cc696
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\9f\9f9210011b71142d5966eec2db6cc696
     projectPath: Library\metadata\9f\9f9210011b71142d5966eec2db6cc696
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\a0\a02a7d8c237544f1962732b55a9aebf1
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\a0\a02a7d8c237544f1962732b55a9aebf1
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\a0\a02a7d8c237544f1962732b55a9aebf1
     projectPath: Library\metadata\a0\a02a7d8c237544f1962732b55a9aebf1
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\a2\a229fefd8ee7448b0b700f6000ebdec3
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\a2\a229fefd8ee7448b0b700f6000ebdec3
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\a2\a229fefd8ee7448b0b700f6000ebdec3
     projectPath: Library\metadata\a2\a229fefd8ee7448b0b700f6000ebdec3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\a2\a2377449ab35649b58bcd7315f345e88
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\a2\a2377449ab35649b58bcd7315f345e88
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\a2\a2377449ab35649b58bcd7315f345e88
     projectPath: Library\metadata\a2\a2377449ab35649b58bcd7315f345e88
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\a3\a3b352fc2ba734605a3df75466e600f0
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\a3\a3b352fc2ba734605a3df75466e600f0
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\a3\a3b352fc2ba734605a3df75466e600f0
     projectPath: Library\metadata\a3\a3b352fc2ba734605a3df75466e600f0
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\a4\a4b523c05131b4a8cb07cc3780329acc
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\a4\a4b523c05131b4a8cb07cc3780329acc
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\a4\a4b523c05131b4a8cb07cc3780329acc
     projectPath: Library\metadata\a4\a4b523c05131b4a8cb07cc3780329acc
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\a5\a546592901a23411d99a5fef0ada01e7
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\a5\a546592901a23411d99a5fef0ada01e7
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\a5\a546592901a23411d99a5fef0ada01e7
     projectPath: Library\metadata\a5\a546592901a23411d99a5fef0ada01e7
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\a5\a5d8d09b9e5d2437aa022780a2ce8c83
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\a5\a5d8d09b9e5d2437aa022780a2ce8c83
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\a5\a5d8d09b9e5d2437aa022780a2ce8c83
     projectPath: Library\metadata\a5\a5d8d09b9e5d2437aa022780a2ce8c83
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\a6\a6a4dc79e16b24f91978bbf65972aebb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\a6\a6a4dc79e16b24f91978bbf65972aebb
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\a6\a6a4dc79e16b24f91978bbf65972aebb
     projectPath: Library\metadata\a6\a6a4dc79e16b24f91978bbf65972aebb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\a8\a89c2f792b6ed4b3c8e3d82ed9b3c4cc
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\a8\a89c2f792b6ed4b3c8e3d82ed9b3c4cc
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\a8\a89c2f792b6ed4b3c8e3d82ed9b3c4cc
     projectPath: Library\metadata\a8\a89c2f792b6ed4b3c8e3d82ed9b3c4cc
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\aa\aa952cbcc0eb13d4ca558b6da550ff55
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\aa\aa952cbcc0eb13d4ca558b6da550ff55
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\aa\aa952cbcc0eb13d4ca558b6da550ff55
     projectPath: Library\metadata\aa\aa952cbcc0eb13d4ca558b6da550ff55
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\ac\acad0e6b1721a4b30992f78c06434321
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\ac\acad0e6b1721a4b30992f78c06434321
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\ac\acad0e6b1721a4b30992f78c06434321
     projectPath: Library\metadata\ac\acad0e6b1721a4b30992f78c06434321
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\ad\adb9b18ac2466473a850d8acd17654a1
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\ad\adb9b18ac2466473a850d8acd17654a1
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\ad\adb9b18ac2466473a850d8acd17654a1
     projectPath: Library\metadata\ad\adb9b18ac2466473a850d8acd17654a1
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\ae\ae2d286fc7c3e427bbde238c0ebb970b
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\ae\ae2d286fc7c3e427bbde238c0ebb970b
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\ae\ae2d286fc7c3e427bbde238c0ebb970b
     projectPath: Library\metadata\ae\ae2d286fc7c3e427bbde238c0ebb970b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\b0\b05767d6e8b854cd0987b344898cc15d
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\b0\b05767d6e8b854cd0987b344898cc15d
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\b0\b05767d6e8b854cd0987b344898cc15d
     projectPath: Library\metadata\b0\b05767d6e8b854cd0987b344898cc15d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\b0\b0dc366f6bd074945a86579cd29111b7
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\b0\b0dc366f6bd074945a86579cd29111b7
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\b0\b0dc366f6bd074945a86579cd29111b7
     projectPath: Library\metadata\b0\b0dc366f6bd074945a86579cd29111b7
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\b2\b2d5a7a64cb36b94fb3234899ed1afb0
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\b2\b2d5a7a64cb36b94fb3234899ed1afb0
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\b2\b2d5a7a64cb36b94fb3234899ed1afb0
     projectPath: Library\metadata\b2\b2d5a7a64cb36b94fb3234899ed1afb0
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\b5\b5cd7f7fcfc8a4c1fbc201ccc579556d
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\b5\b5cd7f7fcfc8a4c1fbc201ccc579556d
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\b5\b5cd7f7fcfc8a4c1fbc201ccc579556d
     projectPath: Library\metadata\b5\b5cd7f7fcfc8a4c1fbc201ccc579556d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\b6\b621d217eade547b4841c4471106b6e5
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\b6\b621d217eade547b4841c4471106b6e5
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\b6\b621d217eade547b4841c4471106b6e5
     projectPath: Library\metadata\b6\b621d217eade547b4841c4471106b6e5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\b6\b6d9412aff759420192d8dcf33f969bb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\b6\b6d9412aff759420192d8dcf33f969bb
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\b6\b6d9412aff759420192d8dcf33f969bb
     projectPath: Library\metadata\b6\b6d9412aff759420192d8dcf33f969bb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\b6\b6ecee1e7b5ef4412ba89d59a49afd69
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\b6\b6ecee1e7b5ef4412ba89d59a49afd69
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\b6\b6ecee1e7b5ef4412ba89d59a49afd69
     projectPath: Library\metadata\b6\b6ecee1e7b5ef4412ba89d59a49afd69
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\b7\b7c28afb12456b7469919c6a64cee9c1
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\b7\b7c28afb12456b7469919c6a64cee9c1
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\b7\b7c28afb12456b7469919c6a64cee9c1
     projectPath: Library\metadata\b7\b7c28afb12456b7469919c6a64cee9c1
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\b9\b9fcd2a047ec9c440a2bfeace305c425
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\b9\b9fcd2a047ec9c440a2bfeace305c425
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\b9\b9fcd2a047ec9c440a2bfeace305c425
     projectPath: Library\metadata\b9\b9fcd2a047ec9c440a2bfeace305c425
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\bc\bc1ede39bf3643ee8e493720e4259791
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\bc\bc1ede39bf3643ee8e493720e4259791
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\bc\bc1ede39bf3643ee8e493720e4259791
     projectPath: Library\metadata\bc\bc1ede39bf3643ee8e493720e4259791
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\c1\c173d28b2a4224c52a4c8ea503f4e2b9
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\c1\c173d28b2a4224c52a4c8ea503f4e2b9
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\c1\c173d28b2a4224c52a4c8ea503f4e2b9
     projectPath: Library\metadata\c1\c173d28b2a4224c52a4c8ea503f4e2b9
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\c2\c259eeb26e96b4f1d8eeb8871bcfdac5
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\c2\c259eeb26e96b4f1d8eeb8871bcfdac5
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\c2\c259eeb26e96b4f1d8eeb8871bcfdac5
     projectPath: Library\metadata\c2\c259eeb26e96b4f1d8eeb8871bcfdac5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\c3\c36f3afb2cb4ef840bf3183652900afe
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\c3\c36f3afb2cb4ef840bf3183652900afe
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\c3\c36f3afb2cb4ef840bf3183652900afe
     projectPath: Library\metadata\c3\c36f3afb2cb4ef840bf3183652900afe
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\c4\c42ca6bb02b364893b127c681c158442
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\c4\c42ca6bb02b364893b127c681c158442
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\c4\c42ca6bb02b364893b127c681c158442
     projectPath: Library\metadata\c4\c42ca6bb02b364893b127c681c158442
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\c4\c485d86d5e69340f09123a723b06bc87
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\c4\c485d86d5e69340f09123a723b06bc87
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\c4\c485d86d5e69340f09123a723b06bc87
     projectPath: Library\metadata\c4\c485d86d5e69340f09123a723b06bc87
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\c4\c4d57836d4e064f449f3e2f03330e9ce
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\c4\c4d57836d4e064f449f3e2f03330e9ce
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\c4\c4d57836d4e064f449f3e2f03330e9ce
     projectPath: Library\metadata\c4\c4d57836d4e064f449f3e2f03330e9ce
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\ca\ca0157c63fb794df89c6735fc602eca2
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\ca\ca0157c63fb794df89c6735fc602eca2
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\ca\ca0157c63fb794df89c6735fc602eca2
     projectPath: Library\metadata\ca\ca0157c63fb794df89c6735fc602eca2
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\cb\cb01f40fa958548a5b1f92a685e6d46d
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\cb\cb01f40fa958548a5b1f92a685e6d46d
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\cb\cb01f40fa958548a5b1f92a685e6d46d
     projectPath: Library\metadata\cb\cb01f40fa958548a5b1f92a685e6d46d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\cb\cb5f458261eac491b9379eb30aec0947
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\cb\cb5f458261eac491b9379eb30aec0947
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\cb\cb5f458261eac491b9379eb30aec0947
     projectPath: Library\metadata\cb\cb5f458261eac491b9379eb30aec0947
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\cc\cc6e38fe705a640ba9cc80555465b13e
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\cc\cc6e38fe705a640ba9cc80555465b13e
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\cc\cc6e38fe705a640ba9cc80555465b13e
     projectPath: Library\metadata\cc\cc6e38fe705a640ba9cc80555465b13e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\cd\cd2cb616496014a37b6820203c567a77
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\cd\cd2cb616496014a37b6820203c567a77
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\cd\cd2cb616496014a37b6820203c567a77
     projectPath: Library\metadata\cd\cd2cb616496014a37b6820203c567a77
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\ce\ce0ec89649a704bd991b4db7e412794f
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\ce\ce0ec89649a704bd991b4db7e412794f
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\ce\ce0ec89649a704bd991b4db7e412794f
     projectPath: Library\metadata\ce\ce0ec89649a704bd991b4db7e412794f
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\cf\cf81c85f95fe47e1a27f6ae460cf182c
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\cf\cf81c85f95fe47e1a27f6ae460cf182c
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\cf\cf81c85f95fe47e1a27f6ae460cf182c
     projectPath: Library\metadata\cf\cf81c85f95fe47e1a27f6ae460cf182c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\d0\d0dea43be37504c45ab74cf9fcfbf34a
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\d0\d0dea43be37504c45ab74cf9fcfbf34a
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\d0\d0dea43be37504c45ab74cf9fcfbf34a
     projectPath: Library\metadata\d0\d0dea43be37504c45ab74cf9fcfbf34a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\d2\d2e49b9842c8f44d79bac6ce9dc1baf1.info
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\d2\d2e49b9842c8f44d79bac6ce9dc1baf1.info
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\d2\d2e49b9842c8f44d79bac6ce9dc1baf1.info
     projectPath: Library\metadata\d2\d2e49b9842c8f44d79bac6ce9dc1baf1.info
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\d2\d2e5fe232b3b94de2a12eb364ebc371e
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\d2\d2e5fe232b3b94de2a12eb364ebc371e
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\d2\d2e5fe232b3b94de2a12eb364ebc371e
     projectPath: Library\metadata\d2\d2e5fe232b3b94de2a12eb364ebc371e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\d5\d58d208ecab3b4c68864333c61ffac7b
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\d5\d58d208ecab3b4c68864333c61ffac7b
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\d5\d58d208ecab3b4c68864333c61ffac7b
     projectPath: Library\metadata\d5\d58d208ecab3b4c68864333c61ffac7b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\d6\d6cef2ddf786f4c10a3c9424db54acf1
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\d6\d6cef2ddf786f4c10a3c9424db54acf1
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\d6\d6cef2ddf786f4c10a3c9424db54acf1
     projectPath: Library\metadata\d6\d6cef2ddf786f4c10a3c9424db54acf1
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\d6\d6dc4d56dabb6444a8fda878f2e8acc1
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\d6\d6dc4d56dabb6444a8fda878f2e8acc1
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\d6\d6dc4d56dabb6444a8fda878f2e8acc1
     projectPath: Library\metadata\d6\d6dc4d56dabb6444a8fda878f2e8acc1
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\d8\d8b9c789363a44b1e87727b1c4d085f6
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\d8\d8b9c789363a44b1e87727b1c4d085f6
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\d8\d8b9c789363a44b1e87727b1c4d085f6
     projectPath: Library\metadata\d8\d8b9c789363a44b1e87727b1c4d085f6
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\da\da538b2d940864934bfd4a6f2e6d0602
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\da\da538b2d940864934bfd4a6f2e6d0602
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\da\da538b2d940864934bfd4a6f2e6d0602
     projectPath: Library\metadata\da\da538b2d940864934bfd4a6f2e6d0602
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
     projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\dd\dd89cf5b9246416f84610a006f916af7
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\dd\dd89cf5b9246416f84610a006f916af7
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\dd\dd89cf5b9246416f84610a006f916af7
     projectPath: Library\metadata\dd\dd89cf5b9246416f84610a006f916af7
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\dd\ddd25f1308577456cbaa207901961126
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\dd\ddd25f1308577456cbaa207901961126
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\dd\ddd25f1308577456cbaa207901961126
     projectPath: Library\metadata\dd\ddd25f1308577456cbaa207901961126
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\e0\e0a32f2191dec4e1b8e05acab6002be6
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\e0\e0a32f2191dec4e1b8e05acab6002be6
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\e0\e0a32f2191dec4e1b8e05acab6002be6
     projectPath: Library\metadata\e0\e0a32f2191dec4e1b8e05acab6002be6
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\e1\e10e28d2cc4e040d392ffbd22271fec0
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\e1\e10e28d2cc4e040d392ffbd22271fec0
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\e1\e10e28d2cc4e040d392ffbd22271fec0
     projectPath: Library\metadata\e1\e10e28d2cc4e040d392ffbd22271fec0
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\e3\e39841bba8ebf4707aff759a1690a400
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\e3\e39841bba8ebf4707aff759a1690a400
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\e3\e39841bba8ebf4707aff759a1690a400
     projectPath: Library\metadata\e3\e39841bba8ebf4707aff759a1690a400
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\e4\e4a605c315b944e7f84ed1dbe9ff6921
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\e4\e4a605c315b944e7f84ed1dbe9ff6921
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\e4\e4a605c315b944e7f84ed1dbe9ff6921
     projectPath: Library\metadata\e4\e4a605c315b944e7f84ed1dbe9ff6921
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\e5\e5000c7de28ac497c8564ecb8d1f005d
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\e5\e5000c7de28ac497c8564ecb8d1f005d
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\e5\e5000c7de28ac497c8564ecb8d1f005d
     projectPath: Library\metadata\e5\e5000c7de28ac497c8564ecb8d1f005d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\e7\e7441953e05443d4fa517d1ce7382b0c
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\e7\e7441953e05443d4fa517d1ce7382b0c
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\e7\e7441953e05443d4fa517d1ce7382b0c
     projectPath: Library\metadata\e7\e7441953e05443d4fa517d1ce7382b0c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\e7\e7dcc90c2e60c4011896c7f21fc1f557
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\e7\e7dcc90c2e60c4011896c7f21fc1f557
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\e7\e7dcc90c2e60c4011896c7f21fc1f557
     projectPath: Library\metadata\e7\e7dcc90c2e60c4011896c7f21fc1f557
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\e9\e9e12e6f5292849138d69ae9652ec4c7
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\e9\e9e12e6f5292849138d69ae9652ec4c7
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\e9\e9e12e6f5292849138d69ae9652ec4c7
     projectPath: Library\metadata\e9\e9e12e6f5292849138d69ae9652ec4c7
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\eb\eb2c08af66d984d78bd1c1f328f04831
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\eb\eb2c08af66d984d78bd1c1f328f04831
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\eb\eb2c08af66d984d78bd1c1f328f04831
     projectPath: Library\metadata\eb\eb2c08af66d984d78bd1c1f328f04831
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\eb\eb5dd43baba2d4dc1bab789615567e3d
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\eb\eb5dd43baba2d4dc1bab789615567e3d
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\eb\eb5dd43baba2d4dc1bab789615567e3d
     projectPath: Library\metadata\eb\eb5dd43baba2d4dc1bab789615567e3d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\ec\ecd9463bbd7994be09b972947a085067
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\ec\ecd9463bbd7994be09b972947a085067
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\ec\ecd9463bbd7994be09b972947a085067
     projectPath: Library\metadata\ec\ecd9463bbd7994be09b972947a085067
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\ef\ef63f87a26b474e1c88f77dfc4f3aa3a
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\ef\ef63f87a26b474e1c88f77dfc4f3aa3a
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\ef\ef63f87a26b474e1c88f77dfc4f3aa3a
     projectPath: Library\metadata\ef\ef63f87a26b474e1c88f77dfc4f3aa3a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\f4\f4ee199cdc1304b2090f019e4f488674
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\f4\f4ee199cdc1304b2090f019e4f488674
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\f4\f4ee199cdc1304b2090f019e4f488674
     projectPath: Library\metadata\f4\f4ee199cdc1304b2090f019e4f488674
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\f7\f73feeef531a54f2a8cf5b05a8c06e58
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\f7\f73feeef531a54f2a8cf5b05a8c06e58
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\f7\f73feeef531a54f2a8cf5b05a8c06e58
     projectPath: Library\metadata\f7\f73feeef531a54f2a8cf5b05a8c06e58
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\f7\f753bca1909314275a77fb53ced78d95
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\f7\f753bca1909314275a77fb53ced78d95
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\f7\f753bca1909314275a77fb53ced78d95
     projectPath: Library\metadata\f7\f753bca1909314275a77fb53ced78d95
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\f7\f789f1d07e73f42b398b211da58efc42
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\f7\f789f1d07e73f42b398b211da58efc42
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\f7\f789f1d07e73f42b398b211da58efc42
     projectPath: Library\metadata\f7\f789f1d07e73f42b398b211da58efc42
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\f7\f7ada0af4f174f0694ca6a487b8f543d
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\f7\f7ada0af4f174f0694ca6a487b8f543d
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\f7\f7ada0af4f174f0694ca6a487b8f543d
     projectPath: Library\metadata\f7\f7ada0af4f174f0694ca6a487b8f543d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\fb\fbc799bc7ede6a940b24eff19a72979c
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\fb\fbc799bc7ede6a940b24eff19a72979c
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\fb\fbc799bc7ede6a940b24eff19a72979c
     projectPath: Library\metadata\fb\fbc799bc7ede6a940b24eff19a72979c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\fb\fbdf93500b5014ec9872a59cb683089a
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\fb\fbdf93500b5014ec9872a59cb683089a
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\fb\fbdf93500b5014ec9872a59cb683089a
     projectPath: Library\metadata\fb\fbdf93500b5014ec9872a59cb683089a
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\fc\fcd4baceb58cc40c98e500572bede6a6
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\fc\fcd4baceb58cc40c98e500572bede6a6
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\fc\fcd4baceb58cc40c98e500572bede6a6
     projectPath: Library\metadata\fc\fcd4baceb58cc40c98e500572bede6a6
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\fd\fdbce15836bf64163856f689fdd67b2c
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\fd\fdbce15836bf64163856f689fdd67b2c
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\fd\fdbce15836bf64163856f689fdd67b2c
     projectPath: Library\metadata\fd\fdbce15836bf64163856f689fdd67b2c
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\fe\fe393ace9b354375a9cb14cdbbc28be4
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\fe\fe393ace9b354375a9cb14cdbbc28be4
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\fe\fe393ace9b354375a9cb14cdbbc28be4
     projectPath: Library\metadata\fe\fe393ace9b354375a9cb14cdbbc28be4
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\ff\ff12693eea0a446d0a2183f2ffe9c711
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\ff\ff12693eea0a446d0a2183f2ffe9c711
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\ff\ff12693eea0a446d0a2183f2ffe9c711
     projectPath: Library\metadata\ff\ff12693eea0a446d0a2183f2ffe9c711
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\metadata\ff\fff2ffa71f4754593a63b4ebb799955e
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\metadata\ff\fff2ffa71f4754593a63b4ebb799955e
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\metadata\ff\fff2ffa71f4754593a63b4ebb799955e
     projectPath: Library\metadata\ff\fff2ffa71f4754593a63b4ebb799955e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\SceneVisibilityState.asset
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\Assembly-CSharp.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\Unity.Rider.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\Unity.TextMeshPro.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
     projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\Unity.Timeline.dll
     projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.Timeline.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\Unity.Timeline.pdb
     projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
     projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
     projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\UnityEditor.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEditor.UI.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEditor.UI.pdb
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\UnityEditor.UI.pdb
     projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\UnityEngine.UI.dll
     projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ScriptAssemblies\UnityEngine.UI.pdb
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ScriptAssemblies\UnityEngine.UI.pdb
     projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library\StateCache\Hierarchy\9a322d-mainStage.json
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\StateCache\Hierarchy\9a322d-mainStage.json
+    fullPath: D:\7MO SEMESTRE\RV\3ER CORTE\Game\proyecto_OFI\Library\StateCache\Hierarchy\9a322d-mainStage.json
     projectPath: Library\StateCache\Hierarchy\9a322d-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\c4eaf7-mainStage.json
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\Library\StateCache\SceneView\c4eaf7-mainStage.json
-    projectPath: Library\StateCache\SceneView\c4eaf7-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\EditorBuildSettings.asset
-    fullPath: C:\Users\usuario\Documents\vr-master\vr-master\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
