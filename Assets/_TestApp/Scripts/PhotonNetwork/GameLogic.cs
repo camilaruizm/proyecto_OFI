@@ -2,10 +2,32 @@
 using UnityEngine;
 using Photon.Pun;
 using UnityEngine.Events;
-public class GameLogic : PhotonSingleton<GameLogic>
+public class GameLogic : MonoBehaviourPunCallbacks
 {
     private PhotonView myPhotonView;
-    protected GameLogic() { } // Protect the constructor!
+
+    #region SINGLETON PATTERN
+    public static GameLogic _instance;
+    public static GameLogic Instance
+    {
+        get
+        {
+            if (_instance == null)
+            {
+                _instance = FindObjectOfType<GameLogic>();
+
+                if (_instance == null)
+                {
+                    GameObject container = new GameObject("BeerGameLogic");
+                    _instance = container.AddComponent<GameLogic>();
+                }
+            }
+
+            return _instance;
+        }
+    }
+    #endregion
+
 
     [SerializeField] private Transform myPlayer = null;
     public Transform lugarDeEspera = null;
