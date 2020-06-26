@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-06-26T12:49:04.055-05:00
+  lastUpdatedAtString: 2020-06-26T12:51:31.142-05:00
   initializedAtString: 2020-06-26T11:18:52.132-05:00
   entries:
-  - path: Assets\Scenes\Topos\ToposMultiplayer.unity
-    fullPath: C:\Users\usuario\Documents\proyecto_OFI\Assets\Scenes\Topos\ToposMultiplayer.unity
-    projectPath: Assets\Scenes\Topos\ToposMultiplayer.unity
+  - path: Assets\Scenes\Beer\BeerPongMultiplayer.unity
+    fullPath: C:\Users\usuario\Documents\proyecto_OFI\Assets\Scenes\Beer\BeerPongMultiplayer.unity
+    projectPath: Assets\Scenes\Beer\BeerPongMultiplayer.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -55,24 +55,6 @@ MonoBehaviour:
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\usuario\Documents\proyecto_OFI\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gituser.yaml
-    fullPath: C:\Users\usuario\Documents\proyecto_OFI\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\Hierarchy\9a322d-mainStage.json
-    fullPath: C:\Users\usuario\Documents\proyecto_OFI\Library\StateCache\Hierarchy\9a322d-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\9a322d-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\c4eaf7-mainStage.json
-    fullPath: C:\Users\usuario\Documents\proyecto_OFI\Library\StateCache\SceneView\c4eaf7-mainStage.json
-    projectPath: Library\StateCache\SceneView\c4eaf7-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
