@@ -1,47 +1,37 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Photon.Pun;
 
 public class Collision : MonoBehaviour
 {
-    public GameObject vaso;
-    public int score1 = 1;
-    public int score2 = 1;
-    public string jugador1 = "1";
-    public string jugador2 = "2";
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
+    public int scorePoints = 1;
     void OnTriggerEnter(Collider collider)
     {
-        if(collider.gameObject.CompareTag("Ball"))
+        if (collider.gameObject.CompareTag("Ball"))
         {
-            gameObject.transform.parent.gameObject.SetActive(false);
-            if(gameObject.transform.parent.gameObject.tag == "VasoA")
+            if (collider.gameObject.GetComponent<PhotonView>().IsMine)
             {
-                PongScore.AddPongScore(score1, jugador1);
-                Debug.Log("Punto jugador 1");
+                GetComponent<PhotonView>().RPC("Touched", RpcTarget.All);
+                if (gameObject.transform.parent.gameObject.tag == "VasoA")
+                {
+                    ScoreManager.Instance.GiveScore(1, scorePoints);
+                    Debug.Log("Punto jugador 2");
+                }
+                else if (gameObject.transform.parent.gameObject.tag == "VasoB")
+                {
+                    ScoreManager.Instance.GiveScore(0, scorePoints);
+                    Debug.Log("Punto jugador 1");
+                }
+                BeerGameLogic.Instance.TerminarTurno();
+                PhotonNetwork.Destroy(collider.gameObject);
             }
-            else if(gameObject.transform.parent.gameObject.tag == "VasoB")
-            {
-                PongScore.AddPongScore(score2, jugador2);
-                Debug.Log("Punto jugador 2");
-            }
-
-           Destroy(collider.gameObject); //Bola
-           // Destroy(vaso); //Vaso
-           // Destroy(gameObject); //Cubo
-           // PongScore.AddPongScore(score);
         }
+    }
+
+    [PunRPC]
+    private void Touched()
+    {
+        gameObject.transform.parent.gameObject.SetActive(false);
     }
 }

@@ -1,12 +1,9 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using Photon.Pun;
 using UnityEngine;
 using TMPro;
 
-public class UITurnManager : Singleton<UITurnManager>
+public class UITurnManager : MonoBehaviourPunCallbacks
 {
-    // (Optional) Prevent non-singleton constructor use.
-    protected UITurnManager() { }
 
     [SerializeField] private TextMeshProUGUI gameStatusText = null;
 
@@ -21,72 +18,129 @@ public class UITurnManager : Singleton<UITurnManager>
     [SerializeField] private GameObject scoreInterface = null;
     [SerializeField] private GameObject salirButton = null;
 
+    #region SINGLETON PATTERN
+    public static UITurnManager _instance;
+    public static UITurnManager Instance
+    {
+        get
+        {
+            if (_instance == null)
+            {
+                _instance = FindObjectOfType<UITurnManager>();
+
+                if (_instance == null)
+                {
+                    GameObject container = new GameObject("UiTurn");
+                    _instance = container.AddComponent<UITurnManager>();
+                }
+            }
+
+            return _instance;
+        }
+    }
+    #endregion
+
     public void GameStarts()
     {
-        salirButton.SetActive(false);
+        if (salirButton)
+        {
+            salirButton.SetActive(false);
+        }
     }
     //Enciende la interfaz de puntajes
     public void TurnScoreInterface(bool active)
     {
-        scoreInterface.SetActive(active);
+        if (scoreInterface)
+        {
+            Debug.Log("Se enciende la interfaz");
+            scoreInterface.SetActive(active);
+        }
     }
 
     public void TurnRoundWinnerInterface(bool active, int winner)
     {
-        winningText.gameObject.SetActive(active);
-        winningText.text = "Ganador de ronda: Jugador " + winner;
+        if (winningText)
+        {
+            winningText.gameObject.SetActive(active);
+            winningText.text = "Ganador de ronda: Jugador " + winner;
+        }
     }
 
     public void TurnWinnerInterface(bool active, int winner)
     {
-        winningText.gameObject.SetActive(active);
-        winningText.text = "Ganador definitivo: Jugador " + winner;
+        if (winningText)
+        {
+            winningText.gameObject.SetActive(active);
+            winningText.text = "Ganador definitivo: Jugador " + winner;
+        }
     }
 
-    //Actualiza el estado de juego
     public void GameStatus(string status)
     {
-        gameStatusText.text = status;
+        if (gameStatusText)
+        {
+            gameStatusText.text = status;
+        }
     }
-    //Actualiza el texto de cuál es tu jugador
     public void YourPlayer(int yourPlayer)
     {
-        youPlayer.text = "Tu eres el jugador: " + yourPlayer;
-        youPlayer.gameObject.SetActive(true);
+        if (youPlayer)
+        {
+            youPlayer.text = "Tu eres el jugador: " + yourPlayer;
+            youPlayer.gameObject.SetActive(true);
+        }
     }
 
     //Actualiza la ronda actual
     public void RondaActual(int ronda)
     {
-        rondasText.text = "Ronda: " + ronda;
+        if (rondasText)
+        {
+            rondasText.text = "Ronda: " + ronda;
+        }
     }
 
     //Actualiza el puntaje de un jugador en específico
     public void ChangeScore(int player, int score)
     {
-        scoreText[player].text = "Puntaje ronda " + score;
+        if (player < scoreText.Length)
+        {
+            scoreText[player].text = "Puntaje Jugador " + player + ": "  + score;
+        }
     }
 
     //Actualiza qué jugador está jugando
     public void TurnoPlayer(int turno)
     {
-        turnoText.text = "Jugando: Jugador " + (turno);
+        if (turnoText)
+        {
+            turnoText.text = "Jugando: Jugador " + (turno);
+        }
     }
     //Actualiza la ronda para el jugador
     public void RondasGanadasPlayer(int player, int rondasText)
     {
-        rondasGanadasText[player].text = "Rondas ganadas: " + rondasText;
+        if (player < scoreText.Length)
+        {
+            rondasGanadasText[player].text = "Rondas ganadas: " + rondasText;
+        }
     }
     //Actualiza el ganador de la ronda
     public void Winner(int winner)
     {
-        winningText.text = "Ganador de ronda: Jugador " + winner;
+        if (winningText)
+        {
+            winningText.text = "Ganador de ronda: Jugador " + winner;
+        }
     }
 
     public void GameEnds()
     {
-        TurnScoreInterface(false);
-        salirButton.SetActive(true);
+        if (salirButton)
+        {
+            TurnScoreInterface(false);
+            salirButton.SetActive(true);
+        }
     }
 
 }

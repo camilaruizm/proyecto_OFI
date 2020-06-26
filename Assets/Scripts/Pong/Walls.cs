@@ -1,27 +1,18 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using Photon.Pun;
 
 public class Walls : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     void OnTriggerEnter(Collider collider)
     {
         if (collider.gameObject.tag == "Ball")
         {
-            Destroy(collider.gameObject); //Bola
-        }
+            if (collider.gameObject.GetComponent<PhotonView>().IsMine)
+            {
+                BeerGameLogic.Instance.TerminarTurno();
 
+                PhotonNetwork.Destroy(collider.gameObject);
+            }
+        }
     }
 }

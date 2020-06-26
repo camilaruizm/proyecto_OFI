@@ -1,27 +1,26 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Photon.Pun;
+using System.IO;
 
 public class Launcher : MonoBehaviour
 {
     public GameObject proyectilPrefab;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
     // Update is called once per frame
-    void FixedUpdate()
+    void Update()
     {
-       
-            if (Input.GetMouseButtonDown(0)) {
-
+        if (Input.GetMouseButtonDown(0))
+        {
+            Debug.Log("Pressed primary button. Beer " + BeerGameLogic.Instance.myTurn + " " + BeerGameLogic.Instance.gameEnded);
+            if (BeerGameLogic.Instance.myTurn == true && !BeerGameLogic.Instance.gameEnded)
+            {
                 Debug.Log("Pressed primary button.");
-                GameObject bullet = Instantiate(proyectilPrefab, transform.position, Quaternion.identity) as GameObject;
-                bullet.GetComponent<Rigidbody>().AddForce(transform.forward * 1000);
+                GameObject ball = PhotonNetwork.Instantiate(Path.Combine("PhotonPrefabs", "Ball"), transform.position, Quaternion.identity);
+                ball.GetComponent<Rigidbody>().AddForce(transform.forward * 500);
+                BeerGameLogic.Instance.myTurn = false;
             }
-        
+        }
     }
 }

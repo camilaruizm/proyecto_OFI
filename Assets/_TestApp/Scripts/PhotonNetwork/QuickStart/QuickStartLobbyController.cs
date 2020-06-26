@@ -11,12 +11,16 @@ public class QuickStartLobbyController : MonoBehaviourPunCallbacks
     [SerializeField] private int roomSize = 2;
     private string[] maps = new string[4] {"ToposMultiplayer", "DardosMultiplayer", "BeerPongMultiplayer", "PecesMultiplayer"};
     public int selectedGame = 0;
+    private bool entering = false;
 
     private void Start()
     {
         if (PhotonNetwork.IsConnectedAndReady && !PhotonNetwork.InLobby)
         {
             PhotonNetwork.JoinLobby();
+        } else
+        {
+            quickStartButton.SetActive(false);
         }
     }
     // Start is called before the first frame update
@@ -32,24 +36,30 @@ public class QuickStartLobbyController : MonoBehaviourPunCallbacks
 
     public void QuickStart()
     {
-        quickStartButton.SetActive(false);
-        quickCancelButton.SetActive(true);
-        PhotonNetwork.JoinRandomRoom();
-        Debug.Log("QuickStart");
+        if (!entering)
+        {
+            //quickStartButton.SetActive(false);
+            quickCancelButton.SetActive(true);
+            PhotonNetwork.JoinRandomRoom();
+            Debug.Log("QuickStart");
+            entering = true;
+        }
     }
 
     public void StartGameMode(int gamemode)
     {
-        //PhotonNetwork.LeaveLobby();
-        selectedGame = gamemode;
-        quickStartButton.SetActive(false);
-        quickCancelButton.SetActive(true);
-
-        Debug.Log("Cuartos disponibles " + PhotonNetwork.CountOfRooms + " " + PhotonNetwork.GetCustomRoomList(TypedLobby.Default, "SELECTEDGAME"));
-        Debug.Log(maps[selectedGame]);
-        ExitGames.Client.Photon.Hashtable customParams = new ExitGames.Client.Photon.Hashtable { { "SELECTEDGAME", maps[selectedGame] } };
-        Debug.Log("StartGamemode  " + customParams);
-        PhotonNetwork.JoinRandomRoom(customParams, 0);
+        if (!entering)
+        {
+            selectedGame = gamemode;
+            //quickStartButton.SetActive(false);
+            quickCancelButton.SetActive(true);
+            Debug.Log("Cuartos disponibles " + PhotonNetwork.CountOfRooms + " " + PhotonNetwork.GetCustomRoomList(TypedLobby.Default, "SELECTEDGAME"));
+            Debug.Log(maps[selectedGame]);
+            ExitGames.Client.Photon.Hashtable customParams = new ExitGames.Client.Photon.Hashtable { { "SELECTEDGAME", maps[selectedGame] } };
+            Debug.Log("StartGamemode  " + customParams);
+            PhotonNetwork.JoinRandomRoom(customParams, 0);
+            entering = true;
+        }
     }
 
     public override void OnJoinRandomFailed(short returnCode, string message)

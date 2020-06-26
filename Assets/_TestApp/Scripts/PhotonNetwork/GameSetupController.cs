@@ -3,13 +3,37 @@ using Photon.Pun;
 using Photon.Realtime;
 using System.IO;
 using UnityEngine.SceneManagement;
+using UnityEngine.Events;
 
-public class GameSetupController : PhotonSingleton<GameSetupController>
+public class GameSetupController : MonoBehaviourPunCallbacks
 {
-    // Start is called before the first frame update
+
+    #region SINGLETON PATTERN
+    public static GameSetupController _instance;
+    public static GameSetupController Instance
+    {
+        get
+        {
+            if (_instance == null)
+            {
+                _instance = FindObjectOfType<GameSetupController>();
+
+                if (_instance == null)
+                {
+                    GameObject container = new GameObject("GameSetup");
+                    _instance = container.AddComponent<GameSetupController>();
+                }
+            }
+
+            return _instance;
+        }
+    }
+    #endregion
+
     private PhotonView myPhotonView;
     private bool readyToStart = false;
     public int myId = 0;
+    public UnityEvent startEvent = new UnityEvent();
     void Awake()
     {
         myPhotonView = GetComponent<PhotonView>();
@@ -71,7 +95,7 @@ public class GameSetupController : PhotonSingleton<GameSetupController>
     [PunRPC]
     private void RPC_StartGame()
     {
-        GameLogic.Instance.IniciarJuego();
+        startEvent.Invoke();
     }
 
     public override void OnPlayerLeftRoom(Player otherPlayer)
@@ -89,6 +113,6 @@ public class GameSetupController : PhotonSingleton<GameSetupController>
 
     public override void OnLeftRoom()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("Lobby");
     }
 }
