@@ -33,12 +33,6 @@ public class Atrapar : MonoBehaviour
             item.GetComponent<Rigidbody>().velocity = Vector3.zero;
             item.GetComponent<Rigidbody>().angularVelocity = Vector3.zero;
             item.transform.SetParent(tempParent.transform);
-
-            //if(Input.GetMouseButtonDown(1))
-           // {
-                //item.GetComponent<Rigidbody>().AddForce(tempParent.transform.forward * fuerza);
-                //isHolding = false;
-            //}
         }
         else
         {
