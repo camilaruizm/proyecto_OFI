@@ -14,10 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Beer/BeerPongMultiplayer.unity
     guid: 7a354453189bfdf48b8e3ed7c8b88dd9
-  - enabled: 0
-    path: Assets/Scenes/Dardos/DardosMultiplayer.unity
-    guid: 835e4f77a8ec5494e8a48549dd542638
-  - enabled: 0
-    path: Assets/Scenes/Peces/PecesMultiplayer.unity
-    guid: 87a866f9efb90ef45bd0a19592fe4073
+  - enabled: 1
+    path: Assets/Scenes/Dardos/Inicio.unity
+    guid: 22465b0af4ff1294687dba7d44876eb2
+  - enabled: 1
+    path: Assets/MagicPhishing/MagicPhishingVR.unity
+    guid: 77fee2065aaf558498e821d424692770
   m_configObjects: {}
