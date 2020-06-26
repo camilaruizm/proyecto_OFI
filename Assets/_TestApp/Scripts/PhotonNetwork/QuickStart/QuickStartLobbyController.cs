@@ -9,7 +9,7 @@ public class QuickStartLobbyController : MonoBehaviourPunCallbacks
     [SerializeField] private GameObject quickStartButton = null;
     [SerializeField] private GameObject quickCancelButton = null;
     [SerializeField] private int roomSize = 2;
-    private string[] maps = new string[4] {"ToposMultiplayer", "DardosMultiplayer", "BeerPongMultiplayer", "PecesMultiplayer"};
+    private string[] maps = new string[4] {"ToposMultiplayer", "Nivel 2", "BeerPongMultiplayer", "PecesMultiplayer"};
     public int selectedGame = 0;
     private bool entering = false;
 

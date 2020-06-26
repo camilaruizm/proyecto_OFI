@@ -2795,10 +2795,10 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 928319736}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 4be6980f170773349bc1e94045f1fb3c, type: 3}
+  m_audioClip: {fileID: 8300000, guid: e4a55966352b7aa4ea5740fa8034ce19, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.218
   m_Pitch: 1
@@ -5534,8 +5534,8 @@ MonoBehaviour:
   maxRondas: 2
   gameEnded: 0
   miID: 0
-  tiempoRonda: 30
-  tiempoPantallaResumen: 10
+  tiempoRonda: 15
+  tiempoPantallaResumen: 5
   tiempoPreparacion: 3
   startGameEvent:
     m_PersistentCalls:
