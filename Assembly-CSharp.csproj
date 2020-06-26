@@ -198,7 +198,6 @@
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\Internal\SuppressMemoryAllocationErrorAttribute.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
     <Compile Include="Assets\MagicPhishing\Scripts\Atrapar.cs" />
-    <Compile Include="Assets\MagicPhishing\Scripts\ElegirCaña.cs" />
     <Compile Include="Assets\MagicPhishing\Scripts\Move.cs" />
     <Compile Include="Assets\MagicPhishing\Scripts\SpawnPeces.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Demos\Common\EventSystemSpawner.cs" />
@@ -223,14 +222,6 @@
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
     <Compile Include="Assets\Scripts\Apuntar.cs" />
     <Compile Include="Assets\Scripts\ChangeScene.cs" />
-    <Compile Include="Assets\Scripts\Dardos\Apuntar.cs" />
-    <Compile Include="Assets\Scripts\Dardos\Flecha.cs" />
-    <Compile Include="Assets\Scripts\Dardos\Inicio.cs" />
-    <Compile Include="Assets\Scripts\Dardos\InicioSonido.cs" />
-    <Compile Include="Assets\Scripts\Dardos\MoverDiana.cs" />
-    <Compile Include="Assets\Scripts\Dardos\PegarFlecha.cs" />
-    <Compile Include="Assets\Scripts\Dardos\RotarCorona.cs" />
-    <Compile Include="Assets\Scripts\Dardos\RotarDiana.cs" />
     <Compile Include="Assets\Scripts\DepurarForward.cs" />
     <Compile Include="Assets\Scripts\DestroyP.cs" />
     <Compile Include="Assets\Scripts\Flecha.cs" />
